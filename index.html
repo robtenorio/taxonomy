@@ -24,31 +24,37 @@
   stroke-width: 2px;
 }
 
-.wrapper {
-  border: 1px solid black;
-  overflow: hidden;
+#wrapper {
+    border: 1px solid black;
+    overflow: hidden; /* add this to contain floated children */
 }
-#current {
-  width: 100px;
-  float: left;
-  border: none;
+#visual {
+    float:left; /* add this */
+    border: 1px solid red;
 }
-.visual {
-  border: none;
-  float: left;
+#paragraph {
+    width: 178px;
+    height: 504px;
+    border: 1px solid green;
+    float: left; /* add this */
 }
 
 </style>
 
 <body>
-  <button onclick="hideSVG()">Hide/Show Globe</button>
-  <div class="wrapper">
-    <h2 id="current"></h2>
-    <canvas id="globe"></canvas>
-    <script src="js/globe.js"></script>
-    <div class = "visual">
+  <!--<button onclick="hideSVG()">Hide/Show Globe</button>-->
+  <div id="wrapper">
+    <div id = "visual">
       <script src="js/tree.js"></script>
     </div>
+    <div id = "paragraph">
+      <p>test</p>
+    </div>
+  </div>
+</body>
+    <!--<h2 id="current"></h2>
+    <canvas id="globe"></canvas>
+    <script src="js/globe.js"></script> -->
   <!--<div class="input">
     <select name="countries" size="10" id="country-select">
       <option value="Afghanistan" selected>Afghanistan</option>
@@ -100,5 +106,3 @@
       <option value="Vietnam">Vietnam</option>
     </select>
   </div>-->
-</div>
-</body>

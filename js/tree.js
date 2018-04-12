@@ -1,15 +1,13 @@
       let country = "Afghanistan";
         tree(country);
 
-        var dropdown = d3.select(".current");
-
-        canvas.on("click", function() {
+        /*canvas.on("click", function() {
           country = current.text();
           if(!fileExists(`taxonomy_data/${country}_taxonomy.json`)) {
             alert('We couldn\'t find that country!');
           }
           tree(country);
-        });
+        });*/
 
         function fileExists(url) {
           var http = new XMLHttpRequest();
@@ -18,7 +16,7 @@
           return http.status!=404;
         }
 
-        function hideSVG() {
+        function minimizeGlobe() {
           var style = d3.select("#globe").style("height");
           if(style === "0px") {
             d3.select("#globe")
@@ -37,8 +35,8 @@
           }
 
         // size of the diagram
-        var viewerWidth = $(document).width();
-        var viewerHeight = $(document).height();
+        var viewerWidth = $(document).width()-200;
+        var viewerHeight = 500;
 
           // Set the dimensions and margins of the diagram
         var margin = {top: 20, right: 5, bottom: 20, left: 5},
@@ -48,7 +46,7 @@
           // append the svg object to the body of the page
           // appends a 'group' element to 'svg'
           // moves the 'group' element to the top left margin
-        var svg = d3.select(".visual").append("svg")
+        var svg = d3.select("#visual").append("svg")
             .attr("width", width + margin.right + margin.left)
             .attr("height", height + margin.top + margin.bottom)
             .attr("transform", "translate("
@@ -145,7 +143,8 @@
                       .attr('r', 1e-6)
                       .style("fill", function(d) {
                           return d._children ? "lightsteelblue" : "#fff";
-                      });
+                      })
+                      .on("click", d => d._children ? console.log(d.data.name) : console.log("child"));
 
                   // Add labels for the nodes
                   nodeEnter.append('text')
