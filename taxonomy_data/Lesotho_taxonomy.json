@@ -1,0 +1,692 @@
+{
+ "name": "Lesotho",
+"children": [
+ {
+ "name": "Keep",
+"children": [
+ {
+ "name": "CCSA",
+"children": [
+ {
+ "name": "Jobs",
+"children": [
+ {
+ "name": "Jobs Diagnostics",
+"children": [
+ {
+ "name": "Categories of Employment",
+"children": [
+ {
+ "name": "Self-Employment" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "GP",
+"children": [
+ {
+ "name": "Health, Nutrition and Population",
+"children": [
+ {
+ "name": "Health" 
+},
+{
+ "name": "Population, Aging and Health",
+"children": [
+ {
+ "name": "Demographic Change",
+"children": [
+ {
+ "name": "Mortality" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Public Sector Management",
+"children": [
+ {
+ "name": "Public Finance",
+"children": [
+ {
+ "name": "Fiscal Policy",
+"children": [
+ {
+ "name": "Government Expenditure" 
+} 
+] 
+},
+{
+ "name": "Government Procurement" 
+},
+{
+ "name": "Public Investment Management" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Social Protection and Labor",
+"children": [
+ {
+ "name": "Social Assistance" 
+} 
+] 
+},
+{
+ "name": "Transport",
+"children": [
+ {
+ "name": "Modes of Transport",
+"children": [
+ {
+ "name": "Road Transport" 
+} 
+] 
+},
+{
+ "name": "Transport Economics",
+"children": [
+ {
+ "name": "Road Financing",
+"children": [
+ {
+ "name": "Road Construction" 
+},
+{
+ "name": "Road Maintenance" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Transport Infrastructure" 
+} 
+] 
+},
+{
+ "name": "Water",
+"children": [
+ {
+ "name": "Energy and Water" 
+},
+{
+ "name": "Water Security and Integrated Resource Management",
+"children": [
+ {
+ "name": "Integrated Water Management",
+"children": [
+ {
+ "name": "Water for Energy" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Water Supply and Sanitation",
+"children": [
+ {
+ "name": "Water Supply" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Remove",
+"children": [
+ {
+ "name": "CCSA",
+"children": [
+ {
+ "name": "Climate Change",
+"children": [
+ {
+ "name": "Climate Change Mitigation",
+"children": [
+ {
+ "name": "Energy and Climate Change" 
+} 
+] 
+},
+{
+ "name": "Climate Finance" 
+} 
+] 
+},
+{
+ "name": "Jobs",
+"children": [
+ {
+ "name": "Jobs and Development",
+"children": [
+ {
+ "name": "Jobs and Growth" 
+} 
+] 
+},
+{
+ "name": "Jobs Diagnostics",
+"children": [
+ {
+ "name": "Categories of Workers",
+"children": [
+ {
+ "name": "Older Workers" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Jobs Strategies",
+"children": [
+ {
+ "name": "Industrial Policies",
+"children": [
+ {
+ "name": "Thematic and Sectoral  Prioritization",
+"children": [
+ {
+ "name": "Jobs in Agriculture" 
+},
+{
+ "name": "Jobs in Trade and Competitiveness",
+"children": [
+ {
+ "name": "Jobs in Tourism" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Public-Private Partnerships",
+"children": [
+ {
+ "name": "PPP Contract Management" 
+},
+{
+ "name": "PPP Procurement" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "GP",
+"children": [
+ {
+ "name": "Agriculture and Food Security",
+"children": [
+ {
+ "name": "Climate Smart Agriculture",
+"children": [
+ {
+ "name": "Agriculture Technology" 
+} 
+] 
+},
+{
+ "name": "Commercial Agriculture" 
+},
+{
+ "name": "Rural Development" 
+} 
+] 
+},
+{
+ "name": "Economic Growth",
+"children": [
+ {
+ "name": "Determinants of Economic Growth",
+"children": [
+ {
+ "name": "Finance and Growth" 
+} 
+] 
+},
+{
+ "name": "Economic Growth Diagnostics",
+"children": [
+ {
+ "name": "Market Failures",
+"children": [
+ {
+ "name": "Infrastructure and Growth" 
+},
+{
+ "name": "Trade and Growth" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Economic Growth Policy",
+"children": [
+ {
+ "name": "Jobs and Growth" 
+} 
+] 
+},
+{
+ "name": "Inclusive Growth",
+"children": [
+ {
+ "name": "Social Protection and Growth" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Education",
+"children": [
+ {
+ "name": "Education for All",
+"children": [
+ {
+ "name": "Social Demand for Education",
+"children": [
+ {
+ "name": "Education and Health" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Energy and Extractives",
+"children": [
+ {
+ "name": "Mining Sector" 
+},
+{
+ "name": "Mining Systems",
+"children": [
+ {
+ "name": "Mining Services" 
+} 
+] 
+},
+{
+ "name": "Power Systems",
+"children": [
+ {
+ "name": "Energy and Water" 
+} 
+] 
+},
+{
+ "name": "Renewable Energy" 
+} 
+] 
+},
+{
+ "name": "Financial Sector Development",
+"children": [
+ {
+ "name": "Capital Markets",
+"children": [
+ {
+ "name": "Non-Bank Financial Institutions",
+"children": [
+ {
+ "name": "Investment Funds",
+"children": [
+ {
+ "name": "Infrastructure Funds" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Financial Inclusion",
+"children": [
+ {
+ "name": "Access to Finance" 
+} 
+] 
+},
+{
+ "name": "Financial Institutions",
+"children": [
+ {
+ "name": "Banking Strategy and Risk Management",
+"children": [
+ {
+ "name": "Banking Risk Management",
+"children": [
+ {
+ "name": "Market Risks" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Climate Finance" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Health, Nutrition and Population",
+"children": [
+ {
+ "name": "Health" 
+} 
+] 
+},
+{
+ "name": "Macroeconomic and Structural Policies",
+"children": [
+ {
+ "name": "Fiscal Policy",
+"children": [
+ {
+ "name": "Government Expenditure" 
+} 
+] 
+},
+{
+ "name": "Macroeconomic Monitoring",
+"children": [
+ {
+ "name": "Economic Growth Diagnostics",
+"children": [
+ {
+ "name": "Market Failures",
+"children": [
+ {
+ "name": "Infrastructure and Growth" 
+},
+{
+ "name": "Trade and Growth" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Poverty",
+"children": [
+ {
+ "name": "Behavioral Initiatives for Poverty Reduction and Equity",
+"children": [
+ {
+ "name": "Decision Making and Poverty" 
+} 
+] 
+},
+{
+ "name": "Markets and Institutions for Poverty Reduction and Shared Prosperity",
+"children": [
+ {
+ "name": "Determinants of Economic Growth",
+"children": [
+ {
+ "name": "Finance and Growth" 
+},
+{
+ "name": "Infrastructure and Growth" 
+},
+{
+ "name": "Trade and Growth" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Private Sector Development",
+"children": [
+ {
+ "name": "Competitive Industries",
+"children": [
+ {
+ "name": "Growth Poles and Economic Zones",
+"children": [
+ {
+ "name": "Export Zones" 
+},
+{
+ "name": "Industrial Zones" 
+} 
+] 
+},
+{
+ "name": "Industry Policy and Real Sectors",
+"children": [
+ {
+ "name": "Manufacturing, Agribusiness, and Services",
+"children": [
+ {
+ "name": "Education and Health" 
+},
+{
+ "name": "Manufacturing Sectors" 
+},
+{
+ "name": "Tourism, Retail, Construction, and Real Estates",
+"children": [
+ {
+ "name": "Tourism" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Investment Promotion" 
+} 
+] 
+},
+{
+ "name": "Investment Climate",
+"children": [
+ {
+ "name": "Business Environment" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Public Sector Management",
+"children": [
+ {
+ "name": "Justice",
+"children": [
+ {
+ "name": "Justice System Administration",
+"children": [
+ {
+ "name": "Human Resources" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Public Administration",
+"children": [
+ {
+ "name": "Human Resources for Public Sector",
+"children": [
+ {
+ "name": "Human Resource Management Information System" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Public Finance",
+"children": [
+ {
+ "name": "Government Procurement",
+"children": [
+ {
+ "name": "Contract Disputes" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Social Protection and Labor",
+"children": [
+ {
+ "name": "Labor Markets",
+"children": [
+ {
+ "name": "Labor Market Equilibrium",
+"children": [
+ {
+ "name": "Older Workers" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Social Insurance",
+"children": [
+ {
+ "name": "Contributory Pensions",
+"children": [
+ {
+ "name": "Old Age Pension" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Social Protection and Labor Delivery Systems",
+"children": [
+ {
+ "name": "Social Protection and Labor Delivery Chain",
+"children": [
+ {
+ "name": "Case Management" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Trade",
+"children": [
+ {
+ "name": "Trade Facilitation and Logistics",
+"children": [
+ {
+ "name": "Customs and Border Management",
+"children": [
+ {
+ "name": "Anti-Corruption in Customs Administration",
+"children": [
+ {
+ "name": "Human Resource Management" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Transport",
+"children": [
+ {
+ "name": "Transport Economics",
+"children": [
+ {
+ "name": "Road Financing" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Urban Development",
+"children": [
+ {
+ "name": "Urban Transport",
+"children": [
+ {
+ "name": "Urban Transport Policy and Planning",
+"children": [
+ {
+ "name": "Transport and Poverty" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Water",
+"children": [
+ {
+ "name": "Water Supply and Sanitation",
+"children": [
+ {
+ "name": "Water Supply" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+}

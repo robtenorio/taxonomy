@@ -1,0 +1,1157 @@
+{
+ "name": "Egypt",
+"children": [
+ {
+ "name": "Keep",
+"children": [
+ {
+ "name": "GP",
+"children": [
+ {
+ "name": "Education",
+"children": [
+ {
+ "name": "Education for All",
+"children": [
+ {
+ "name": "Quality of Education" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Energy and Extractives",
+"children": [
+ {
+ "name": "Energy Access" 
+},
+{
+ "name": "Energy Efficiency" 
+},
+{
+ "name": "Oil and Gas Industry",
+"children": [
+ {
+ "name": "Mid and Downstream Oil and Gas",
+"children": [
+ {
+ "name": "Oil and Gas Refining",
+"children": [
+ {
+ "name": "Natural Gas" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Power and Electricity Sector",
+"children": [
+ {
+ "name": "Energy Subsidies" 
+} 
+] 
+},
+{
+ "name": "Power Systems",
+"children": [
+ {
+ "name": "Power Transmission" 
+} 
+] 
+},
+{
+ "name": "Renewable Energy" 
+} 
+] 
+},
+{
+ "name": "Financial Sector Development",
+"children": [
+ {
+ "name": "Financial Architecture and Banking",
+"children": [
+ {
+ "name": "Banking Institutions" 
+} 
+] 
+},
+{
+ "name": "Financial Inclusion",
+"children": [
+ {
+ "name": "Access to Finance" 
+},
+{
+ "name": "MSME Finance" 
+} 
+] 
+},
+{
+ "name": "Financial Institutions" 
+} 
+] 
+},
+{
+ "name": "Health, Nutrition and Population",
+"children": [
+ {
+ "name": "Health" 
+},
+{
+ "name": "Nutrition" 
+} 
+] 
+},
+{
+ "name": "Macroeconomic and Structural Policies",
+"children": [
+ {
+ "name": "Fiscal Policy",
+"children": [
+ {
+ "name": "Fiscal Consolidation" 
+},
+{
+ "name": "Fiscal Transparency" 
+} 
+] 
+},
+{
+ "name": "Macroeconomic Monitoring",
+"children": [
+ {
+ "name": "Medium Term Debt Management Strategy" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Private Sector Development",
+"children": [
+ {
+ "name": "Competition Policy" 
+},
+{
+ "name": "Competitive Industries",
+"children": [
+ {
+ "name": "Industry Policy and Real Sectors",
+"children": [
+ {
+ "name": "Manufacturing, Agribusiness, and Services",
+"children": [
+ {
+ "name": "Agribusiness and Forestry",
+"children": [
+ {
+ "name": "Agribusiness" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Investment Climate",
+"children": [
+ {
+ "name": "Business Environment" 
+},
+{
+ "name": "Investment Policy and Promotion",
+"children": [
+ {
+ "name": "Investment Entry" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Public Sector Management",
+"children": [
+ {
+ "name": "Legal and Regulatory Framework",
+"children": [
+ {
+ "name": "Business Law and Regulation",
+"children": [
+ {
+ "name": "Competition Law" 
+} 
+] 
+},
+{
+ "name": "Employment Regimes",
+"children": [
+ {
+ "name": "Civil Service Law" 
+} 
+] 
+},
+{
+ "name": "Fundamental Areas of the Law",
+"children": [
+ {
+ "name": "Civil Law" 
+} 
+] 
+},
+{
+ "name": "International Law",
+"children": [
+ {
+ "name": "Private International Law",
+"children": [
+ {
+ "name": "Conflict of Laws" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Public Administration" 
+} 
+] 
+},
+{
+ "name": "Social Protection and Labor",
+"children": [
+ {
+ "name": "Social Assistance",
+"children": [
+ {
+ "name": "Type of Benefits",
+"children": [
+ {
+ "name": "Cash Transfers",
+"children": [
+ {
+ "name": "Public Works" 
+} 
+] 
+},
+{
+ "name": "Price Subsidies" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Transport",
+"children": [
+ {
+ "name": "Modes of Transport",
+"children": [
+ {
+ "name": "Road Transport",
+"children": [
+ {
+ "name": "Mass Transit",
+"children": [
+ {
+ "name": "Urban Transport Infrastructure",
+"children": [
+ {
+ "name": "Transport Terminals" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Transport and Sustainable Development",
+"children": [
+ {
+ "name": "Transport Safety" 
+} 
+] 
+},
+{
+ "name": "Transport Economics",
+"children": [
+ {
+ "name": "Transport Efficiency" 
+} 
+] 
+},
+{
+ "name": "Transport Infrastructure" 
+} 
+] 
+},
+{
+ "name": "Water",
+"children": [
+ {
+ "name": "Agricultural Water Management" 
+},
+{
+ "name": "Water Allocation and Water Economics",
+"children": [
+ {
+ "name": "Water Economics",
+"children": [
+ {
+ "name": "Water Pricing" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Water Security and Integrated Resource Management",
+"children": [
+ {
+ "name": "Water and Environment" 
+},
+{
+ "name": "Water Management Structures",
+"children": [
+ {
+ "name": "Water Conveyance",
+"children": [
+ {
+ "name": "Agricultural Canals" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Water Scarcity" 
+} 
+] 
+},
+{
+ "name": "Water Supply and Sanitation",
+"children": [
+ {
+ "name": "Sanitation" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Remove",
+"children": [
+ {
+ "name": "CCSA",
+"children": [
+ {
+ "name": "Gender",
+"children": [
+ {
+ "name": "Gender and Economic Empowerment",
+"children": [
+ {
+ "name": "Female-Headed Households" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Jobs",
+"children": [
+ {
+ "name": "Jobs and Development",
+"children": [
+ {
+ "name": "Jobs and Growth" 
+},
+{
+ "name": "Jobs and Poverty",
+"children": [
+ {
+ "name": "Informal Sector" 
+},
+{
+ "name": "Micro-enterprises" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Jobs Diagnostics",
+"children": [
+ {
+ "name": "Categories of Workers",
+"children": [
+ {
+ "name": "Skilled Workers" 
+} 
+] 
+},
+{
+ "name": "Job Quality and Labor Market Performance",
+"children": [
+ {
+ "name": "Labor Supply",
+"children": [
+ {
+ "name": "Employment Incentives",
+"children": [
+ {
+ "name": "Public Works" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Jobs Strategies",
+"children": [
+ {
+ "name": "Employment Regimes",
+"children": [
+ {
+ "name": "Civil Service Law" 
+} 
+] 
+},
+{
+ "name": "Fiscal Policy and Jobs",
+"children": [
+ {
+ "name": "Infrastructure Investments for Jobs" 
+},
+{
+ "name": "Tax Incentives",
+"children": [
+ {
+ "name": "Tax Incentives Favoring Capital",
+"children": [
+ {
+ "name": "Fuel Subsidies" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Industrial Policies",
+"children": [
+ {
+ "name": "Thematic and Sectoral  Prioritization",
+"children": [
+ {
+ "name": "Jobs in Governance" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Trade Policies and Jobs",
+"children": [
+ {
+ "name": "Competitiveness and Jobs" 
+},
+{
+ "name": "Trade in Services" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "GP",
+"children": [
+ {
+ "name": "Agriculture and Food Security",
+"children": [
+ {
+ "name": "Climate Smart Agriculture",
+"children": [
+ {
+ "name": "Agricultural Water Management" 
+},
+{
+ "name": "Horticulture" 
+} 
+] 
+},
+{
+ "name": "Commercial Agriculture",
+"children": [
+ {
+ "name": "Agribusiness Development" 
+},
+{
+ "name": "Agribusiness Management" 
+} 
+] 
+},
+{
+ "name": "Linking Farmers with Markets",
+"children": [
+ {
+ "name": "Farm Inputs",
+"children": [
+ {
+ "name": "Agricultural Trade" 
+} 
+] 
+},
+{
+ "name": "Land Tenure",
+"children": [
+ {
+ "name": "Land Reform" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Economic Growth",
+"children": [
+ {
+ "name": "Determinants of Economic Growth",
+"children": [
+ {
+ "name": "Finance and Growth" 
+},
+{
+ "name": "Macroeconomic Stability and Growth" 
+} 
+] 
+},
+{
+ "name": "Economic Growth Diagnostics",
+"children": [
+ {
+ "name": "Government Failures",
+"children": [
+ {
+ "name": "Institutions and Growth" 
+} 
+] 
+},
+{
+ "name": "Market Failures",
+"children": [
+ {
+ "name": "Competition Policy and Growth" 
+},
+{
+ "name": "Infrastructure and Growth" 
+},
+{
+ "name": "Trade and Growth" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Economic Growth Policy",
+"children": [
+ {
+ "name": "Jobs and Growth" 
+} 
+] 
+},
+{
+ "name": "Inclusive Growth",
+"children": [
+ {
+ "name": "Growth and Lagging Regions" 
+} 
+] 
+},
+{
+ "name": "Innovation and Growth" 
+},
+{
+ "name": "Sustainable Economic Growth",
+"children": [
+ {
+ "name": "Political and Institutional Sustainability",
+"children": [
+ {
+ "name": "Governance and Growth" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Energy and Extractives",
+"children": [
+ {
+ "name": "Power and Electricity Sector",
+"children": [
+ {
+ "name": "Energy Subsidies" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Environment and Natural Resources",
+"children": [
+ {
+ "name": "Environmental Sustainability",
+"children": [
+ {
+ "name": "Trade and the Environment" 
+},
+{
+ "name": "Transport Impact on the Environment",
+"children": [
+ {
+ "name": "Social Safeguards",
+"children": [
+ {
+ "name": "Informal Waste Sector" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Financial Sector Development",
+"children": [
+ {
+ "name": "Financial Institutions",
+"children": [
+ {
+ "name": "Housing Finance",
+"children": [
+ {
+ "name": "Rental Housing" 
+},
+{
+ "name": "Social Housing" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Health, Nutrition and Population",
+"children": [
+ {
+ "name": "Health",
+"children": [
+ {
+ "name": "Health Financing",
+"children": [
+ {
+ "name": "Health Equity",
+"children": [
+ {
+ "name": "Direct Subsidies",
+"children": [
+ {
+ "name": "Subsidies Targeting" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Public Health" 
+} 
+] 
+},
+{
+ "name": "Information and Communication Technologies",
+"children": [
+ {
+ "name": "Digital Government",
+"children": [
+ {
+ "name": "ICT Applications",
+"children": [
+ {
+ "name": "Enterprise Applications",
+"children": [
+ {
+ "name": "Knowledge Management" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "ICT Infrastructure" 
+} 
+] 
+},
+{
+ "name": "ICT for Jobs" 
+} 
+] 
+},
+{
+ "name": "Macroeconomic and Structural Policies",
+"children": [
+ {
+ "name": "Fiscal Policy" 
+},
+{
+ "name": "Macroeconomic Monitoring",
+"children": [
+ {
+ "name": "Economic Growth Diagnostics",
+"children": [
+ {
+ "name": "Government Failures",
+"children": [
+ {
+ "name": "Institutions and Growth" 
+} 
+] 
+},
+{
+ "name": "Market Failures",
+"children": [
+ {
+ "name": "Competition Policy and Growth" 
+},
+{
+ "name": "Infrastructure and Growth" 
+},
+{
+ "name": "Trade and Growth" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Macroeconomic Vulnerability and Debt",
+"children": [
+ {
+ "name": "Debt and Macroeconomic Stability",
+"children": [
+ {
+ "name": "Debt Management" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Poverty",
+"children": [
+ {
+ "name": "Markets and Institutions for Poverty Reduction and Shared Prosperity",
+"children": [
+ {
+ "name": "Determinants of Economic Growth",
+"children": [
+ {
+ "name": "Competition Policy and Growth" 
+},
+{
+ "name": "Finance and Growth" 
+},
+{
+ "name": "Infrastructure and Growth" 
+},
+{
+ "name": "Macroeconomic Stability and Growth" 
+},
+{
+ "name": "Trade and Growth" 
+} 
+] 
+},
+{
+ "name": "Government Failures",
+"children": [
+ {
+ "name": "Institutions and Growth" 
+} 
+] 
+},
+{
+ "name": "Jobs and Poverty",
+"children": [
+ {
+ "name": "Informal Sector" 
+},
+{
+ "name": "Micro-enterprises" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Private Sector Development",
+"children": [
+ {
+ "name": "Competitive Industries",
+"children": [
+ {
+ "name": "Industry Policy and Real Sectors",
+"children": [
+ {
+ "name": "Manufacturing, Agribusiness, and Services",
+"children": [
+ {
+ "name": "Agribusiness and Forestry",
+"children": [
+ {
+ "name": "Agribusiness" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Innovation, Technology and Entrepreneurship",
+"children": [
+ {
+ "name": "SME Development",
+"children": [
+ {
+ "name": "Business Development Services" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Investment Climate",
+"children": [
+ {
+ "name": "Business Environment",
+"children": [
+ {
+ "name": "Business Law and Regulation",
+"children": [
+ {
+ "name": "Competition Law" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Public Sector Management",
+"children": [
+ {
+ "name": "Governance in Public Sector",
+"children": [
+ {
+ "name": "Open Government and Transparency",
+"children": [
+ {
+ "name": "Fiscal Transparency" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Legal and Regulatory Framework" 
+},
+{
+ "name": "Public Administration",
+"children": [
+ {
+ "name": "Public Service Delivery" 
+} 
+] 
+},
+{
+ "name": "Public Finance",
+"children": [
+ {
+ "name": "Fiscal Policy",
+"children": [
+ {
+ "name": "Fiscal Consolidation" 
+} 
+] 
+},
+{
+ "name": "Government Procurement",
+"children": [
+ {
+ "name": "International Procurement" 
+} 
+] 
+},
+{
+ "name": "Public Investment Management" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Social Development",
+"children": [
+ {
+ "name": "Social Accountability",
+"children": [
+ {
+ "name": "Grievance Redress Mechanism" 
+} 
+] 
+},
+{
+ "name": "Social Inclusion",
+"children": [
+ {
+ "name": "Informal Waste Sector" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Social Protection and Labor",
+"children": [
+ {
+ "name": "Labor Markets",
+"children": [
+ {
+ "name": "Labor Market Equilibrium",
+"children": [
+ {
+ "name": "Informal Sector" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Social Assistance",
+"children": [
+ {
+ "name": "Type of Benefits",
+"children": [
+ {
+ "name": "Cash Transfers" 
+},
+{
+ "name": "Price Subsidies",
+"children": [
+ {
+ "name": "Fuel Subsidies" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Trade",
+"children": [
+ {
+ "name": "Trade Facilitation and Logistics",
+"children": [
+ {
+ "name": "Trade Linkages, Spillovers and Connectivity",
+"children": [
+ {
+ "name": "Connectivity and Lagging Regions" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Trade Policy and Integration",
+"children": [
+ {
+ "name": "Impact of Trade",
+"children": [
+ {
+ "name": "Trade and Jobs" 
+},
+{
+ "name": "Trade and the Environment" 
+} 
+] 
+},
+{
+ "name": "Trade in Services" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Transport",
+"children": [
+ {
+ "name": "Transport and Sustainable Development",
+"children": [
+ {
+ "name": "Transport Impact on the Environment",
+"children": [
+ {
+ "name": "Social Safeguards",
+"children": [
+ {
+ "name": "Informal Waste Sector" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Urban Development",
+"children": [
+ {
+ "name": "National Urban Policies",
+"children": [
+ {
+ "name": "Connectivity and Lagging Regions" 
+} 
+] 
+},
+{
+ "name": "Urban Governance and City Systems",
+"children": [
+ {
+ "name": "Land and Housing",
+"children": [
+ {
+ "name": "Housing Subsidies" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Urban Transport",
+"children": [
+ {
+ "name": "Mass Transit",
+"children": [
+ {
+ "name": "Urban Transport Infrastructure",
+"children": [
+ {
+ "name": "Transport Terminals" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Urban Transport Policy and Planning",
+"children": [
+ {
+ "name": "Transport and Poverty" 
+},
+{
+ "name": "Transport Impact on the Environment",
+"children": [
+ {
+ "name": "Social Safeguards",
+"children": [
+ {
+ "name": "Informal Waste Sector" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Water",
+"children": [
+ {
+ "name": "Water Supply and Sanitation",
+"children": [
+ {
+ "name": "Sanitation" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+}

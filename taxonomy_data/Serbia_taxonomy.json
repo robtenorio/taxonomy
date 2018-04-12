@@ -1,0 +1,1293 @@
+{
+ "name": "Serbia",
+"children": [
+ {
+ "name": "Keep",
+"children": [
+ {
+ "name": "CCSA",
+"children": [
+ {
+ "name": "Jobs",
+"children": [
+ {
+ "name": "Inclusive Jobs",
+"children": [
+ {
+ "name": "Gender and Employment",
+"children": [
+ {
+ "name": "Gender and Labor Market",
+"children": [
+ {
+ "name": "Female Labor Market" 
+} 
+] 
+},
+{
+ "name": "Gender and Skills" 
+} 
+] 
+},
+{
+ "name": "Youth Employment" 
+} 
+] 
+},
+{
+ "name": "Jobs and Development",
+"children": [
+ {
+ "name": "Changing Nature of Jobs",
+"children": [
+ {
+ "name": "Skills Gap" 
+} 
+] 
+},
+{
+ "name": "Jobs and Poverty",
+"children": [
+ {
+ "name": "Labor Incomes and Poverty" 
+},
+{
+ "name": "Labor Market Institutions and Policies",
+"children": [
+ {
+ "name": "Labor Contracts",
+"children": [
+ {
+ "name": "Employment Relationship",
+"children": [
+ {
+ "name": "Part-Time Work" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Labor Market Regulation" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Jobs Diagnostics",
+"children": [
+ {
+ "name": "Categories of Employment",
+"children": [
+ {
+ "name": "Formal Employment" 
+},
+{
+ "name": "Wage Employment" 
+} 
+] 
+},
+{
+ "name": "Categories of Workers",
+"children": [
+ {
+ "name": "Female Workers" 
+},
+{
+ "name": "Male Workers" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Jobs Strategies",
+"children": [
+ {
+ "name": "Skills and Education" 
+},
+{
+ "name": "Trade Policies and Jobs",
+"children": [
+ {
+ "name": "Competitiveness and Jobs" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "GP",
+"children": [
+ {
+ "name": "Financial Sector Development",
+"children": [
+ {
+ "name": "Financial Architecture and Banking",
+"children": [
+ {
+ "name": "Banking Institutions" 
+},
+{
+ "name": "Deposit Insurance" 
+} 
+] 
+},
+{
+ "name": "Financial Inclusion",
+"children": [
+ {
+ "name": "Access to Finance" 
+} 
+] 
+},
+{
+ "name": "Financial Infrastructure and Remittances",
+"children": [
+ {
+ "name": "Debt Resolution" 
+} 
+] 
+},
+{
+ "name": "Financial Institutions",
+"children": [
+ {
+ "name": "Banking Strategy and Risk Management",
+"children": [
+ {
+ "name": "Banking Regulation" 
+},
+{
+ "name": "Banking Risk Management",
+"children": [
+ {
+ "name": "Credit Risk" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Macroeconomic Vulnerability and Debt",
+"children": [
+ {
+ "name": "Debt and Macroeconomic Stability",
+"children": [
+ {
+ "name": "Debt and Fiscal Sustainability" 
+},
+{
+ "name": "Debt Management" 
+} 
+] 
+},
+{
+ "name": "Fiscal Risks" 
+} 
+] 
+},
+{
+ "name": "Private Sector Development",
+"children": [
+ {
+ "name": "Investment Climate" 
+} 
+] 
+},
+{
+ "name": "Public Sector Management",
+"children": [
+ {
+ "name": "Governance in Public Sector" 
+},
+{
+ "name": "Justice" 
+},
+{
+ "name": "Public Administration" 
+},
+{
+ "name": "Public Finance",
+"children": [
+ {
+ "name": "Fiscal Policy",
+"children": [
+ {
+ "name": "Government Expenditure" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Transport",
+"children": [
+ {
+ "name": "Modes of Transport",
+"children": [
+ {
+ "name": "Road Transport",
+"children": [
+ {
+ "name": "Road Classification",
+"children": [
+ {
+ "name": "Highways" 
+},
+{
+ "name": "Motorways" 
+},
+{
+ "name": "National Roads" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Transport and Sustainable Development",
+"children": [
+ {
+ "name": "Transport Safety",
+"children": [
+ {
+ "name": "Road Safety" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Transport Economics",
+"children": [
+ {
+ "name": "Road Financing",
+"children": [
+ {
+ "name": "Road Rehabilitation" 
+} 
+] 
+},
+{
+ "name": "Transport Efficiency" 
+} 
+] 
+},
+{
+ "name": "Transport Infrastructure" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Remove",
+"children": [
+ {
+ "name": "CCSA",
+"children": [
+ {
+ "name": "Climate Change",
+"children": [
+ {
+ "name": "Climate Change Mitigation",
+"children": [
+ {
+ "name": "Energy and Climate Change" 
+} 
+] 
+},
+{
+ "name": "Climate Finance" 
+},
+{
+ "name": "Climate Science",
+"children": [
+ {
+ "name": "Climate Change Impacts" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Gender",
+"children": [
+ {
+ "name": "Gender and Economic Empowerment",
+"children": [
+ {
+ "name": "Gender and Employment",
+"children": [
+ {
+ "name": "Gender and Labor Market",
+"children": [
+ {
+ "name": "Female Labor Market" 
+} 
+] 
+},
+{
+ "name": "Gender and Skills" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Gender and Human Development",
+"children": [
+ {
+ "name": "Education and Gender",
+"children": [
+ {
+ "name": "Education of Females" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Jobs",
+"children": [
+ {
+ "name": "Jobs and Development",
+"children": [
+ {
+ "name": "Jobs and Growth" 
+},
+{
+ "name": "Jobs and Poverty",
+"children": [
+ {
+ "name": "Labor Market Institutions and Policies",
+"children": [
+ {
+ "name": "Job Sharing" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Jobs and Shared Prosperity" 
+} 
+] 
+},
+{
+ "name": "Jobs Diagnostics",
+"children": [
+ {
+ "name": "Job Quality and Labor Market Performance",
+"children": [
+ {
+ "name": "Labor Productivity",
+"children": [
+ {
+ "name": "Innovation and Jobs" 
+} 
+] 
+},
+{
+ "name": "Labor Supply",
+"children": [
+ {
+ "name": "Employment Incentives",
+"children": [
+ {
+ "name": "Public Works" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Jobs Strategies",
+"children": [
+ {
+ "name": "Trade Policies and Jobs",
+"children": [
+ {
+ "name": "Competitiveness and Jobs" 
+},
+{
+ "name": "Trade in Services",
+"children": [
+ {
+ "name": "General Agreement on Trade in Services",
+"children": [
+ {
+ "name": "Commercial Presence" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "GP",
+"children": [
+ {
+ "name": "Agriculture and Food Security",
+"children": [
+ {
+ "name": "Climate Smart Agriculture",
+"children": [
+ {
+ "name": "Livestock",
+"children": [
+ {
+ "name": "Animal Production",
+"children": [
+ {
+ "name": "Animal Welfare",
+"children": [
+ {
+ "name": "One Health" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Linking Farmers with Markets",
+"children": [
+ {
+ "name": "Land Tenure",
+"children": [
+ {
+ "name": "Land Reform" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Rural Development" 
+} 
+] 
+},
+{
+ "name": "Economic Growth",
+"children": [
+ {
+ "name": "Determinants of Economic Growth",
+"children": [
+ {
+ "name": "Finance and Growth" 
+},
+{
+ "name": "Macroeconomic Stability and Growth" 
+} 
+] 
+},
+{
+ "name": "Economic Growth Diagnostics",
+"children": [
+ {
+ "name": "Government Failures",
+"children": [
+ {
+ "name": "Institutions and Growth" 
+} 
+] 
+},
+{
+ "name": "Market Failures",
+"children": [
+ {
+ "name": "Infrastructure and Growth" 
+},
+{
+ "name": "Trade and Growth" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Economic Growth Policy",
+"children": [
+ {
+ "name": "Jobs and Growth" 
+} 
+] 
+},
+{
+ "name": "Innovation and Growth" 
+},
+{
+ "name": "Sustainable Economic Growth",
+"children": [
+ {
+ "name": "Macroeconomic Sustainability",
+"children": [
+ {
+ "name": "Fiscal Sustainability" 
+} 
+] 
+},
+{
+ "name": "Political and Institutional Sustainability",
+"children": [
+ {
+ "name": "Governance and Growth" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Education",
+"children": [
+ {
+ "name": "Education for All",
+"children": [
+ {
+ "name": "Education Access and Equity",
+"children": [
+ {
+ "name": "Education and Gender",
+"children": [
+ {
+ "name": "Education of Females" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Quality of Education" 
+},
+{
+ "name": "Social Demand for Education",
+"children": [
+ {
+ "name": "Education and Households" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Education Management and Administration",
+"children": [
+ {
+ "name": "Education Policy and Planning",
+"children": [
+ {
+ "name": "Education Reform" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Levels of Education",
+"children": [
+ {
+ "name": "Early Childhood Education" 
+},
+{
+ "name": "Vocational Education and Training" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Energy and Extractives",
+"children": [
+ {
+ "name": "Oil and Gas Industry",
+"children": [
+ {
+ "name": "Upstream Oil and Gas",
+"children": [
+ {
+ "name": "Production Wells" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Renewable Energy" 
+} 
+] 
+},
+{
+ "name": "Environment and Natural Resources",
+"children": [
+ {
+ "name": "Environmental Sustainability",
+"children": [
+ {
+ "name": "Trade and the Environment" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Financial Sector Development",
+"children": [
+ {
+ "name": "Capital Markets",
+"children": [
+ {
+ "name": "Securities Markets" 
+} 
+] 
+},
+{
+ "name": "Financial Architecture and Banking",
+"children": [
+ {
+ "name": "Banking Institutions" 
+} 
+] 
+},
+{
+ "name": "Financial Inclusion",
+"children": [
+ {
+ "name": "Access to Finance" 
+} 
+] 
+},
+{
+ "name": "Financial Infrastructure and Remittances",
+"children": [
+ {
+ "name": "Debt Resolution" 
+} 
+] 
+},
+{
+ "name": "Financial Institutions" 
+} 
+] 
+},
+{
+ "name": "Health, Nutrition and Population",
+"children": [
+ {
+ "name": "Health",
+"children": [
+ {
+ "name": "Disease Prevention",
+"children": [
+ {
+ "name": "Health Causes and Risk Factors",
+"children": [
+ {
+ "name": "Aging" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Health Financing",
+"children": [
+ {
+ "name": "Health Equity",
+"children": [
+ {
+ "name": "Direct Subsidies" 
+} 
+] 
+},
+{
+ "name": "Health Insurance" 
+} 
+] 
+},
+{
+ "name": "Health Systems" 
+} 
+] 
+},
+{
+ "name": "Nutrition",
+"children": [
+ {
+ "name": "Maternal and Child Nutrition",
+"children": [
+ {
+ "name": "Breastfeeding",
+"children": [
+ {
+ "name": "Early Child Development",
+"children": [
+ {
+ "name": "Preschool Education" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Public Health" 
+} 
+] 
+},
+{
+ "name": "Information and Communication Technologies",
+"children": [
+ {
+ "name": "Telecommunications and Broadband Access",
+"children": [
+ {
+ "name": "Access and Connectivity" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Macroeconomic and Structural Policies",
+"children": [
+ {
+ "name": "Fiscal Policy",
+"children": [
+ {
+ "name": "Fiscal Consolidation" 
+},
+{
+ "name": "Fiscal Risks" 
+},
+{
+ "name": "Fiscal Sustainability" 
+},
+{
+ "name": "Government Expenditure" 
+} 
+] 
+},
+{
+ "name": "Macroeconomic Monitoring",
+"children": [
+ {
+ "name": "Economic Growth Diagnostics",
+"children": [
+ {
+ "name": "Government Failures",
+"children": [
+ {
+ "name": "Institutions and Growth" 
+} 
+] 
+},
+{
+ "name": "Market Failures",
+"children": [
+ {
+ "name": "Infrastructure and Growth" 
+},
+{
+ "name": "Trade and Growth" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Macroprudential Policy",
+"children": [
+ {
+ "name": "Banking Regulation" 
+} 
+] 
+},
+{
+ "name": "Structural Policy and Reform",
+"children": [
+ {
+ "name": "Labor Market Regulation" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Macroeconomic Vulnerability and Debt",
+"children": [
+ {
+ "name": "Debt and Macroeconomic Stability",
+"children": [
+ {
+ "name": "Debt Relief",
+"children": [
+ {
+ "name": "Debt Restructuring" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Poverty",
+"children": [
+ {
+ "name": "Markets and Institutions for Poverty Reduction and Shared Prosperity",
+"children": [
+ {
+ "name": "Determinants of Economic Growth",
+"children": [
+ {
+ "name": "Finance and Growth" 
+},
+{
+ "name": "Infrastructure and Growth" 
+},
+{
+ "name": "Macroeconomic Stability and Growth" 
+},
+{
+ "name": "Trade and Growth" 
+} 
+] 
+},
+{
+ "name": "Government Failures",
+"children": [
+ {
+ "name": "Institutions and Growth" 
+} 
+] 
+},
+{
+ "name": "Jobs and Poverty",
+"children": [
+ {
+ "name": "Labor Incomes and Poverty" 
+},
+{
+ "name": "Labor Market Institutions and Policies",
+"children": [
+ {
+ "name": "Job Sharing" 
+},
+{
+ "name": "Labor Contracts",
+"children": [
+ {
+ "name": "Employment Relationship",
+"children": [
+ {
+ "name": "Part-Time Work" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Labor Market Regulation" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Shocks and Vulnerability to Poverty",
+"children": [
+ {
+ "name": "Poverty, Nutrition and Food Security",
+"children": [
+ {
+ "name": "Disaster Risk Management" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Private Sector Development",
+"children": [
+ {
+ "name": "Competitive Industries",
+"children": [
+ {
+ "name": "Investment Promotion" 
+} 
+] 
+},
+{
+ "name": "Investment Climate",
+"children": [
+ {
+ "name": "Investment Policy and Promotion",
+"children": [
+ {
+ "name": "Investment Incentives" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Public Sector Management",
+"children": [
+ {
+ "name": "Legal and Regulatory Framework",
+"children": [
+ {
+ "name": "Employment Regimes",
+"children": [
+ {
+ "name": "Labor Market Regulation" 
+} 
+] 
+},
+{
+ "name": "Financial Laws and Regulations",
+"children": [
+ {
+ "name": "Banking Regulation" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Public Administration",
+"children": [
+ {
+ "name": "Public Service Delivery",
+"children": [
+ {
+ "name": "State Owned Enterprises",
+"children": [
+ {
+ "name": "Privatization" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Public Finance",
+"children": [
+ {
+ "name": "Fiscal Policy",
+"children": [
+ {
+ "name": "Fiscal Consolidation" 
+},
+{
+ "name": "Fiscal Risks" 
+},
+{
+ "name": "Fiscal Sustainability" 
+},
+{
+ "name": "Government Expenditure" 
+} 
+] 
+},
+{
+ "name": "Public Investment Management" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Social Protection and Labor",
+"children": [
+ {
+ "name": "Labor Markets",
+"children": [
+ {
+ "name": "Labor Market Equilibrium",
+"children": [
+ {
+ "name": "Female Workers" 
+},
+{
+ "name": "Youth Employment" 
+} 
+] 
+},
+{
+ "name": "Public Employment Services" 
+} 
+] 
+},
+{
+ "name": "Social Assistance",
+"children": [
+ {
+ "name": "Type of Benefits",
+"children": [
+ {
+ "name": "Cash Transfers",
+"children": [
+ {
+ "name": "Public Works" 
+} 
+] 
+},
+{
+ "name": "Food and In-kind Transfers",
+"children": [
+ {
+ "name": "Asset Transfers" 
+} 
+] 
+},
+{
+ "name": "Price Subsidies",
+"children": [
+ {
+ "name": "Transport Subsidies" 
+},
+{
+ "name": "Utility Subsidies" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Types of Beneficiaries",
+"children": [
+ {
+ "name": "Early Childhood" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Social Insurance" 
+} 
+] 
+},
+{
+ "name": "Trade",
+"children": [
+ {
+ "name": "Trade Policy and Integration",
+"children": [
+ {
+ "name": "Impact of Trade",
+"children": [
+ {
+ "name": "Trade and the Environment" 
+} 
+] 
+},
+{
+ "name": "Trade and FDI Promotion Infrastructure",
+"children": [
+ {
+ "name": "Export Promotion" 
+} 
+] 
+},
+{
+ "name": "Trade Finance" 
+},
+{
+ "name": "Trade in Services",
+"children": [
+ {
+ "name": "General Agreement on Trade in Services",
+"children": [
+ {
+ "name": "Commercial Presence" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Transport",
+"children": [
+ {
+ "name": "Modes of Transport",
+"children": [
+ {
+ "name": "Road Transport" 
+} 
+] 
+},
+{
+ "name": "Transport Economics",
+"children": [
+ {
+ "name": "Road Financing",
+"children": [
+ {
+ "name": "Road Maintenance" 
+} 
+] 
+},
+{
+ "name": "Transport Efficiency" 
+} 
+] 
+},
+{
+ "name": "Transport Governance",
+"children": [
+ {
+ "name": "Transport Institutions" 
+},
+{
+ "name": "Transport Policy" 
+},
+{
+ "name": "Transport Sector Reform" 
+} 
+] 
+},
+{
+ "name": "Transport Infrastructure",
+"children": [
+ {
+ "name": "Railways" 
+} 
+] 
+},
+{
+ "name": "Urban Transport",
+"children": [
+ {
+ "name": "Urban Transport Policy and Planning",
+"children": [
+ {
+ "name": "Transport Finance and Funding",
+"children": [
+ {
+ "name": "Transport Subsidies" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Urban Development",
+"children": [
+ {
+ "name": "Disaster Risk Management" 
+},
+{
+ "name": "Urban Transport",
+"children": [
+ {
+ "name": "Urban Roads",
+"children": [
+ {
+ "name": "Road Safety" 
+} 
+] 
+},
+{
+ "name": "Urban Transport Policy and Planning",
+"children": [
+ {
+ "name": "Transport and Poverty" 
+},
+{
+ "name": "Transport Finance and Funding",
+"children": [
+ {
+ "name": "Transport Subsidies" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Water",
+"children": [
+ {
+ "name": "Water Supply and Sanitation",
+"children": [
+ {
+ "name": "Water Supply and Sanitation Policy, Legislation and Institutions",
+"children": [
+ {
+ "name": "Utility Management" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+}

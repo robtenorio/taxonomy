@@ -1,0 +1,947 @@
+{
+ "name": "Cote'D Ivoire",
+"children": [
+ {
+ "name": "Remove",
+"children": [
+ {
+ "name": "CCSA",
+"children": [
+ {
+ "name": "Climate Change",
+"children": [
+ {
+ "name": "Climate Finance" 
+} 
+] 
+},
+{
+ "name": "Fragility, Conflict and Violence",
+"children": [
+ {
+ "name": "Peace Operations and Conflict Management",
+"children": [
+ {
+ "name": "Post-Conflict Reconstruction",
+"children": [
+ {
+ "name": "Essential Services Provision" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Gender",
+"children": [
+ {
+ "name": "Gender and Economic Empowerment",
+"children": [
+ {
+ "name": "Gender and Employment" 
+} 
+] 
+},
+{
+ "name": "Gender and Human Development",
+"children": [
+ {
+ "name": "Education and Gender" 
+},
+{
+ "name": "Gender and Health" 
+},
+{
+ "name": "Gender and Youth" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Jobs",
+"children": [
+ {
+ "name": "Inclusive Jobs",
+"children": [
+ {
+ "name": "Gender and Employment" 
+},
+{
+ "name": "Youth Employment" 
+} 
+] 
+},
+{
+ "name": "Jobs and Development",
+"children": [
+ {
+ "name": "Jobs and Growth",
+"children": [
+ {
+ "name": "Human Capital for Growth" 
+} 
+] 
+},
+{
+ "name": "Jobs and Poverty",
+"children": [
+ {
+ "name": "Labor Market Institutions and Policies",
+"children": [
+ {
+ "name": "Job Sharing" 
+} 
+] 
+},
+{
+ "name": "Micro-enterprises" 
+},
+{
+ "name": "Poverty, Jobs and Development" 
+} 
+] 
+},
+{
+ "name": "Jobs and Shared Prosperity" 
+} 
+] 
+},
+{
+ "name": "Jobs Diagnostics",
+"children": [
+ {
+ "name": "Categories of Employment",
+"children": [
+ {
+ "name": "Self-Employment" 
+} 
+] 
+},
+{
+ "name": "Job Quality and Labor Market Performance",
+"children": [
+ {
+ "name": "Labor Productivity",
+"children": [
+ {
+ "name": "Human Capital for Innovation and Entrepreneurship",
+"children": [
+ {
+ "name": "Entrepreneurship Development" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Jobs Strategies",
+"children": [
+ {
+ "name": "Industrial Policies",
+"children": [
+ {
+ "name": "Thematic and Sectoral  Prioritization",
+"children": [
+ {
+ "name": "Jobs in Agriculture" 
+},
+{
+ "name": "Jobs in Education" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Investment Policies and Jobs",
+"children": [
+ {
+ "name": "Special Economic Zone" 
+} 
+] 
+},
+{
+ "name": "Skills and Education" 
+},
+{
+ "name": "Trade Policies and Jobs",
+"children": [
+ {
+ "name": "Trade in Services" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "GP",
+"children": [
+ {
+ "name": "Agriculture and Food Security",
+"children": [
+ {
+ "name": "Agricultural Policies" 
+},
+{
+ "name": "Climate Smart Agriculture",
+"children": [
+ {
+ "name": "Agriculture Technology" 
+},
+{
+ "name": "Horticulture" 
+},
+{
+ "name": "Livestock" 
+} 
+] 
+},
+{
+ "name": "Commercial Agriculture",
+"children": [
+ {
+ "name": "Agribusiness Development" 
+} 
+] 
+},
+{
+ "name": "Linking Farmers with Markets",
+"children": [
+ {
+ "name": "Land Tenure",
+"children": [
+ {
+ "name": "Land Reform" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Rural Development" 
+} 
+] 
+},
+{
+ "name": "Economic Growth",
+"children": [
+ {
+ "name": "Determinants of Economic Growth",
+"children": [
+ {
+ "name": "Finance and Growth" 
+},
+{
+ "name": "Human Capital and Growth" 
+},
+{
+ "name": "Macroeconomic Stability and Growth",
+"children": [
+ {
+ "name": "Fiscal Policy and Growth" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Economic Growth Diagnostics",
+"children": [
+ {
+ "name": "Government Failures",
+"children": [
+ {
+ "name": "Corruption and Growth" 
+},
+{
+ "name": "Institutions and Growth" 
+} 
+] 
+},
+{
+ "name": "Market Failures",
+"children": [
+ {
+ "name": "Infrastructure and Growth" 
+},
+{
+ "name": "Trade and Growth" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Inclusive Growth" 
+},
+{
+ "name": "Sustainable Economic Growth" 
+} 
+] 
+},
+{
+ "name": "Education",
+"children": [
+ {
+ "name": "Economics of Education",
+"children": [
+ {
+ "name": "Economic Analysis of Education",
+"children": [
+ {
+ "name": "Education and Economic Growth" 
+} 
+] 
+},
+{
+ "name": "Education Finance",
+"children": [
+ {
+ "name": "Private Education" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Education for All",
+"children": [
+ {
+ "name": "Education Access and Equity",
+"children": [
+ {
+ "name": "Education and Gender" 
+} 
+] 
+},
+{
+ "name": "Quality of Education" 
+} 
+] 
+},
+{
+ "name": "Levels of Education",
+"children": [
+ {
+ "name": "Primary Education" 
+},
+{
+ "name": "Vocational Education and Training" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Energy and Extractives",
+"children": [
+ {
+ "name": "Energy Access" 
+} 
+] 
+},
+{
+ "name": "Environment and Natural Resources",
+"children": [
+ {
+ "name": "Environmental Management",
+"children": [
+ {
+ "name": "Environmental Governance" 
+} 
+] 
+},
+{
+ "name": "Environmental Sustainability" 
+} 
+] 
+},
+{
+ "name": "Financial Sector Development",
+"children": [
+ {
+ "name": "Capital Markets",
+"children": [
+ {
+ "name": "Non-Bank Financial Institutions",
+"children": [
+ {
+ "name": "Investment Funds" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Financial Inclusion",
+"children": [
+ {
+ "name": "Access to Finance" 
+},
+{
+ "name": "MSME Finance",
+"children": [
+ {
+ "name": "Microfinance",
+"children": [
+ {
+ "name": "Micro-Credit" 
+} 
+] 
+},
+{
+ "name": "SME Finance",
+"children": [
+ {
+ "name": "Leasing" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Financial Institutions" 
+},
+{
+ "name": "Financial Integrity",
+"children": [
+ {
+ "name": "Economic Transparency",
+"children": [
+ {
+ "name": "Financial Transparency" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Health, Nutrition and Population",
+"children": [
+ {
+ "name": "Health" 
+},
+{
+ "name": "Nutrition" 
+},
+{
+ "name": "Public Health" 
+} 
+] 
+},
+{
+ "name": "Information and Communication Technologies",
+"children": [
+ {
+ "name": "Digital Government",
+"children": [
+ {
+ "name": "ICT Applications",
+"children": [
+ {
+ "name": "Enterprise Applications",
+"children": [
+ {
+ "name": "Social Media" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "ICT for Citizen Engagement" 
+} 
+] 
+},
+{
+ "name": "ICT for Jobs",
+"children": [
+ {
+ "name": "ICT Industry and Services",
+"children": [
+ {
+ "name": "ICT and Social Accountability" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Macroeconomic and Structural Policies",
+"children": [
+ {
+ "name": "Fiscal Policy",
+"children": [
+ {
+ "name": "Government Expenditure",
+"children": [
+ {
+ "name": "Expenditure Efficiency" 
+},
+{
+ "name": "Expenditure Policy" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Macroeconomic Monitoring",
+"children": [
+ {
+ "name": "Economic Growth Diagnostics",
+"children": [
+ {
+ "name": "Government Failures",
+"children": [
+ {
+ "name": "Corruption and Growth" 
+},
+{
+ "name": "Institutions and Growth" 
+} 
+] 
+},
+{
+ "name": "Market Failures",
+"children": [
+ {
+ "name": "Infrastructure and Growth" 
+},
+{
+ "name": "Trade and Growth" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Macroeconomic Vulnerability and Debt",
+"children": [
+ {
+ "name": "Debt and Macroeconomic Stability",
+"children": [
+ {
+ "name": "Debt Management" 
+},
+{
+ "name": "Debt Relief" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Poverty",
+"children": [
+ {
+ "name": "Markets and Institutions for Poverty Reduction and Shared Prosperity",
+"children": [
+ {
+ "name": "Determinants of Economic Growth",
+"children": [
+ {
+ "name": "Finance and Growth" 
+},
+{
+ "name": "Human Capital and Growth" 
+},
+{
+ "name": "Infrastructure and Growth" 
+},
+{
+ "name": "Macroeconomic Stability and Growth",
+"children": [
+ {
+ "name": "Fiscal Policy and Growth" 
+} 
+] 
+},
+{
+ "name": "Trade and Growth" 
+} 
+] 
+},
+{
+ "name": "Government Failures",
+"children": [
+ {
+ "name": "Corruption and Growth" 
+},
+{
+ "name": "Institutions and Growth" 
+} 
+] 
+},
+{
+ "name": "Jobs and Poverty",
+"children": [
+ {
+ "name": "Labor Market Institutions and Policies",
+"children": [
+ {
+ "name": "Job Sharing" 
+} 
+] 
+},
+{
+ "name": "Micro-enterprises" 
+},
+{
+ "name": "Poverty, Jobs and Development" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Private Sector Development",
+"children": [
+ {
+ "name": "Competitive Industries",
+"children": [
+ {
+ "name": "Growth Poles and Economic Zones",
+"children": [
+ {
+ "name": "Industrial Zones" 
+},
+{
+ "name": "Special Economic Zone" 
+} 
+] 
+},
+{
+ "name": "Industry Policy and Real Sectors",
+"children": [
+ {
+ "name": "Manufacturing, Agribusiness, and Services",
+"children": [
+ {
+ "name": "Agribusiness and Forestry",
+"children": [
+ {
+ "name": "Agribusiness" 
+} 
+] 
+},
+{
+ "name": "Manufacturing Sectors" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Innovation, Technology and Entrepreneurship",
+"children": [
+ {
+ "name": "Human Capital for Innovation and Entrepreneurship",
+"children": [
+ {
+ "name": "Entrepreneurship Development" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Investment Climate",
+"children": [
+ {
+ "name": "Business Environment" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Public Sector Management",
+"children": [
+ {
+ "name": "Governance in Public Sector" 
+},
+{
+ "name": "Justice" 
+},
+{
+ "name": "Public Administration",
+"children": [
+ {
+ "name": "Public Service Delivery" 
+} 
+] 
+},
+{
+ "name": "Public Finance",
+"children": [
+ {
+ "name": "Fiscal Policy",
+"children": [
+ {
+ "name": "Government Expenditure",
+"children": [
+ {
+ "name": "Expenditure Efficiency" 
+},
+{
+ "name": "Expenditure Policy" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Social Development",
+"children": [
+ {
+ "name": "Social Accountability",
+"children": [
+ {
+ "name": "Budget Transparency" 
+},
+{
+ "name": "ICT and Social Accountability" 
+},
+{
+ "name": "ICT for Citizen Engagement" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Social Protection and Labor",
+"children": [
+ {
+ "name": "Labor Markets",
+"children": [
+ {
+ "name": "Labor Demand",
+"children": [
+ {
+ "name": "Household Enterprises" 
+},
+{
+ "name": "Self-Employment and Entrepreneurship",
+"children": [
+ {
+ "name": "Entrepreneurship" 
+},
+{
+ "name": "Livelihoods" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Labor Market Equilibrium",
+"children": [
+ {
+ "name": "Youth Employment" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Social Assistance",
+"children": [
+ {
+ "name": "Type of Benefits",
+"children": [
+ {
+ "name": "Cash Transfers" 
+},
+{
+ "name": "Social Support Services" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Trade",
+"children": [
+ {
+ "name": "Trade Competitiveness and Diversification",
+"children": [
+ {
+ "name": "Services Trade Competitiveness",
+"children": [
+ {
+ "name": "Services Exports" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Trade Facilitation and Logistics",
+"children": [
+ {
+ "name": "Transport and Logistics Services",
+"children": [
+ {
+ "name": "Special Economic Zone" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Trade Policy and Integration",
+"children": [
+ {
+ "name": "Impact of Trade",
+"children": [
+ {
+ "name": "Trade and Jobs" 
+} 
+] 
+},
+{
+ "name": "Trade in Services" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Transport",
+"children": [
+ {
+ "name": "Transport and Logistics Services",
+"children": [
+ {
+ "name": "Special Economic Zone" 
+} 
+] 
+},
+{
+ "name": "Transport and Sustainable Development",
+"children": [
+ {
+ "name": "Transport and Urban Development",
+"children": [
+ {
+ "name": "Resilient Cities",
+"children": [
+ {
+ "name": "Resilient Infrastructure" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Transport Infrastructure" 
+} 
+] 
+},
+{
+ "name": "Urban Development",
+"children": [
+ {
+ "name": "National Urban Policies",
+"children": [
+ {
+ "name": "Local and Regional Economic Development" 
+} 
+] 
+},
+{
+ "name": "Urban Transport",
+"children": [
+ {
+ "name": "Transport and Urban Development",
+"children": [
+ {
+ "name": "Resilient Cities",
+"children": [
+ {
+ "name": "Resilient Infrastructure" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Urban Transport Policy and Planning",
+"children": [
+ {
+ "name": "Transport and Poverty" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Urban Water" 
+} 
+] 
+},
+{
+ "name": "Water",
+"children": [
+ {
+ "name": "Water Supply and Sanitation",
+"children": [
+ {
+ "name": "Sanitation" 
+},
+{
+ "name": "Social Dimensions of Water Supply and Sanitation",
+"children": [
+ {
+ "name": "Water Supply and Sanitation and Health" 
+} 
+] 
+},
+{
+ "name": "Water Supply" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+}

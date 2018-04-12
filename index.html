@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<!-- load the d3.js library --> 
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<!-- load the jQuery library -->
+<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+<script src="https://unpkg.com/topojson-client@2"></script>
+<script src="js/versor.js"></script>
+<style>
+
+.node circle {
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 3px;
+}
+
+.node text {
+  font: 12px sans-serif;
+}
+
+.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 2px;
+}
+
+.wrapper {
+  border: 1px solid black;
+  overflow: hidden;
+}
+#current {
+  width: 100px;
+  float: left;
+  border: none;
+}
+.visual {
+  border: none;
+  float: left;
+}
+
+</style>
+
+<body>
+  <button onclick="hideSVG()">Hide/Show Globe</button>
+  <div class="wrapper">
+    <h2 id="current"></h2>
+    <canvas id="globe"></canvas>
+    <script src="js/globe.js"></script>
+    <div class = "visual">
+      <script src="js/tree.js"></script>
+    </div>
+  <!--<div class="input">
+    <select name="countries" size="10" id="country-select">
+      <option value="Afghanistan" selected>Afghanistan</option>
+      <option value="Albania">Albania</option>
+      <option value="Azerbhaijan">Azerbhaijan</option>
+      <option value="Bangladesh">Bangladesh</option>
+      <option value="Belize">Belize</option>
+      <option value="Bolivia">Bolivia</option>
+      <option value="Bosnia">Bosnia</option>
+      <option value="Botswana">Botswana</option>
+      <option value="Brazil">Brazil</option>
+      <option value="Bulgaria">Bulgaria</option>
+      <option value="Cameroon">Cameroon</option>
+      <option value="Chad">Chad</option>
+      <option value="Colombia">Colombia</option>
+      <option value="Costa Rica">Costa Rica</option>
+      <option value="Cote'D Ivoire">Cote d'Ivoire</option>
+      <option value="Egypt">Egypt</option>
+      <option value="El Salvador">El Salvador</option>
+      <option value="Ethiopia">Ethiopia</option>
+      <option value="Guatamala">Guatemala</option>
+      <option value="Guinea">Guinea</option>
+      <option value="Haiti">Haiti</option>
+      <option value="Honduras">Honduras</option>
+      <option value="Indonesia">Indonesia</option>
+      <option value="Jordon">Jordan</option>
+      <option value="Kosovo">Kosovo</option>
+      <option value="Lao PDR">Lao PDR</option>
+      <option value="Lebanon">Lebanon</option>
+      <option value="Lesotho">Lesotho</option>
+      <option value="Maldives">Maldives</option>
+      <option value="Mali">Mali</option>
+      <option value="Mauritius">Mauritius</option>
+      <option value="Moldova">Moldova</option>
+      <option value="Montenegro">Montenegro</option>
+      <option value="Mozambique">Mozambique</option>
+      <option value="Myanmar">Myanmar</option>
+      <option value="Pacific Islands">Pacific Islands</option>
+      <option value="Panama">Panama</option>
+      <option value="Peru">Peru</option>
+      <option value="Serbia">Serbia</option>
+      <option value="Srilanka">Sri Lanka</option>
+      <option value="Tunisia">Tunisia</option>
+      <option value="Turkey">Turkey</option>
+      <option value="Uganda">Uganda</option>
+      <option value="Ukraine">Ukraine</option>
+      <option value="Uruguay">Uruguay</option>
+      <option value="Uzbekistan">Uzbekistan</option>
+      <option value="Vietnam">Vietnam</option>
+    </select>
+  </div>-->
+</div>
+</body>

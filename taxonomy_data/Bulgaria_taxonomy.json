@@ -1,0 +1,868 @@
+{
+ "name": "Bulgaria",
+"children": [
+ {
+ "name": "Keep",
+"children": [
+ {
+ "name": "GP",
+"children": [
+ {
+ "name": "Education",
+"children": [
+ {
+ "name": "Education for All",
+"children": [
+ {
+ "name": "Quality of Education" 
+} 
+] 
+},
+{
+ "name": "Levels of Education" 
+} 
+] 
+},
+{
+ "name": "Energy and Extractives",
+"children": [
+ {
+ "name": "Energy Efficiency" 
+},
+{
+ "name": "Power and Electricity Sector",
+"children": [
+ {
+ "name": "Power Sector Economics",
+"children": [
+ {
+ "name": "Power Costs" 
+},
+{
+ "name": "Power Tariffs" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Environment and Natural Resources",
+"children": [
+ {
+ "name": "Environmental Sustainability",
+"children": [
+ {
+ "name": "Transport Impact on the Environment",
+"children": [
+ {
+ "name": "Transport and Climate Change",
+"children": [
+ {
+ "name": "Climate Change Adaptation" 
+},
+{
+ "name": "Climate Resilience" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Natural Resources Management",
+"children": [
+ {
+ "name": "Natural Resources" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Financial Sector Development",
+"children": [
+ {
+ "name": "Capital Markets",
+"children": [
+ {
+ "name": "Corporate Governance" 
+} 
+] 
+},
+{
+ "name": "Financial Architecture and Banking",
+"children": [
+ {
+ "name": "Deposit Insurance" 
+} 
+] 
+},
+{
+ "name": "Financial Institutions",
+"children": [
+ {
+ "name": "Banking Strategy and Risk Management",
+"children": [
+ {
+ "name": "Banking Regulation",
+"children": [
+ {
+ "name": "Bank Regulation and Supervision",
+"children": [
+ {
+ "name": "Bank Asset Quality" 
+},
+{
+ "name": "Corporate Governance of Banks" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Health, Nutrition and Population",
+"children": [
+ {
+ "name": "Health",
+"children": [
+ {
+ "name": "Disease Prevention",
+"children": [
+ {
+ "name": "Health Causes and Risk Factors",
+"children": [
+ {
+ "name": "Aging" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Health Systems",
+"children": [
+ {
+ "name": "Health Services Delivery",
+"children": [
+ {
+ "name": "Health Infrastructure" 
+} 
+] 
+},
+{
+ "name": "Private Sector Entities in Health Care",
+"children": [
+ {
+ "name": "Private Health Care Service Providers",
+"children": [
+ {
+ "name": "Primary Care" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Human Resources for Health",
+"children": [
+ {
+ "name": "Health Workforce",
+"children": [
+ {
+ "name": "Health Worker Training and Education",
+"children": [
+ {
+ "name": "Continuing Health Education" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Population, Aging and Health",
+"children": [
+ {
+ "name": "Aging Population",
+"children": [
+ {
+ "name": "Long-term Care" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Remove",
+"children": [
+ {
+ "name": "CCSA",
+"children": [
+ {
+ "name": "Climate Change",
+"children": [
+ {
+ "name": "Climate Change Adaptation" 
+},
+{
+ "name": "Climate Change Mitigation",
+"children": [
+ {
+ "name": "Transport and Climate Change",
+"children": [
+ {
+ "name": "Climate Resilience" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Climate Science",
+"children": [
+ {
+ "name": "Climate Change Impacts" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Jobs",
+"children": [
+ {
+ "name": "Jobs and Development",
+"children": [
+ {
+ "name": "Jobs and Poverty",
+"children": [
+ {
+ "name": "Labor Market Institutions and Policies",
+"children": [
+ {
+ "name": "Working Conditions" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Jobs Diagnostics",
+"children": [
+ {
+ "name": "Job Quality and Labor Market Performance",
+"children": [
+ {
+ "name": "Labor Productivity" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Jobs Strategies",
+"children": [
+ {
+ "name": "Industrial Policies",
+"children": [
+ {
+ "name": "Thematic and Sectoral  Prioritization",
+"children": [
+ {
+ "name": "Jobs in Health, Nutrition & Population",
+"children": [
+ {
+ "name": "Health Worker Training and Education",
+"children": [
+ {
+ "name": "Continuing Health Education" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Skills and Education" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "GP",
+"children": [
+ {
+ "name": "Agriculture and Food Security",
+"children": [
+ {
+ "name": "Climate Smart Agriculture",
+"children": [
+ {
+ "name": "Agricultural Water Management",
+"children": [
+ {
+ "name": "Water Scarcity",
+"children": [
+ {
+ "name": "Water Efficiency" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Natural Resources" 
+} 
+] 
+},
+{
+ "name": "Economic Growth",
+"children": [
+ {
+ "name": "Economic Growth Diagnostics",
+"children": [
+ {
+ "name": "Government Failures",
+"children": [
+ {
+ "name": "Institutions and Growth" 
+} 
+] 
+},
+{
+ "name": "Market Failures",
+"children": [
+ {
+ "name": "Infrastructure and Growth" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Inclusive Growth",
+"children": [
+ {
+ "name": "Social Protection and Growth" 
+} 
+] 
+},
+{
+ "name": "Sustainable Economic Growth",
+"children": [
+ {
+ "name": "Political and Institutional Sustainability",
+"children": [
+ {
+ "name": "Governance and Growth" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Education",
+"children": [
+ {
+ "name": "Education for All",
+"children": [
+ {
+ "name": "Education Access and Equity",
+"children": [
+ {
+ "name": "Rural Education" 
+} 
+] 
+},
+{
+ "name": "Quality of Education" 
+},
+{
+ "name": "Social Demand for Education",
+"children": [
+ {
+ "name": "Education and Health" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Energy and Extractives",
+"children": [
+ {
+ "name": "Energy Efficiency" 
+},
+{
+ "name": "Power Systems",
+"children": [
+ {
+ "name": "Energy and Water" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Financial Sector Development",
+"children": [
+ {
+ "name": "Financial Institutions" 
+} 
+] 
+},
+{
+ "name": "Health, Nutrition and Population",
+"children": [
+ {
+ "name": "Health",
+"children": [
+ {
+ "name": "Disease Prevention",
+"children": [
+ {
+ "name": "Health Causes and Risk Factors",
+"children": [
+ {
+ "name": "Aging" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Health Financing",
+"children": [
+ {
+ "name": "Purchasing in Health" 
+} 
+] 
+},
+{
+ "name": "Health Technologies",
+"children": [
+ {
+ "name": "Diagnostics" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Nutrition",
+"children": [
+ {
+ "name": "Maternal and Child Nutrition",
+"children": [
+ {
+ "name": "Breastfeeding",
+"children": [
+ {
+ "name": "Early Child Development",
+"children": [
+ {
+ "name": "Benefits of Early Childhood Development" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Population, Aging and Health",
+"children": [
+ {
+ "name": "Aging Population" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Macroeconomic and Structural Policies",
+"children": [
+ {
+ "name": "Macroeconomic Monitoring",
+"children": [
+ {
+ "name": "Economic Growth Diagnostics",
+"children": [
+ {
+ "name": "Government Failures",
+"children": [
+ {
+ "name": "Institutions and Growth" 
+} 
+] 
+},
+{
+ "name": "Market Failures",
+"children": [
+ {
+ "name": "Infrastructure and Growth" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Macroprudential Policy",
+"children": [
+ {
+ "name": "Banking Regulation",
+"children": [
+ {
+ "name": "Bank Regulation and Supervision",
+"children": [
+ {
+ "name": "Bank Asset Quality" 
+},
+{
+ "name": "Corporate Governance of Banks" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Poverty",
+"children": [
+ {
+ "name": "Markets and Institutions for Poverty Reduction and Shared Prosperity",
+"children": [
+ {
+ "name": "Determinants of Economic Growth",
+"children": [
+ {
+ "name": "Infrastructure and Growth" 
+} 
+] 
+},
+{
+ "name": "Government Failures",
+"children": [
+ {
+ "name": "Institutions and Growth" 
+} 
+] 
+},
+{
+ "name": "Jobs and Poverty",
+"children": [
+ {
+ "name": "Labor Market Institutions and Policies",
+"children": [
+ {
+ "name": "Working Conditions" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Shocks and Vulnerability to Poverty",
+"children": [
+ {
+ "name": "Poverty, Nutrition and Food Security",
+"children": [
+ {
+ "name": "Disaster Risk Management",
+"children": [
+ {
+ "name": "Disaster Risk Reduction",
+"children": [
+ {
+ "name": "Disaster Resilience" 
+} 
+] 
+},
+{
+ "name": "Natural Disaster" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Private Sector Development",
+"children": [
+ {
+ "name": "Competitive Industries",
+"children": [
+ {
+ "name": "Industry Policy and Real Sectors",
+"children": [
+ {
+ "name": "Manufacturing, Agribusiness, and Services",
+"children": [
+ {
+ "name": "Agribusiness and Forestry",
+"children": [
+ {
+ "name": "Forestry" 
+} 
+] 
+},
+{
+ "name": "Education and Health" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Investment Climate",
+"children": [
+ {
+ "name": "Business Environment",
+"children": [
+ {
+ "name": "Energy Efficient Buildings" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Public Sector Management",
+"children": [
+ {
+ "name": "Legal and Regulatory Framework",
+"children": [
+ {
+ "name": "Financial Laws and Regulations",
+"children": [
+ {
+ "name": "Banking Regulation",
+"children": [
+ {
+ "name": "Bank Regulation and Supervision",
+"children": [
+ {
+ "name": "Bank Asset Quality" 
+},
+{
+ "name": "Corporate Governance of Banks" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Social Development",
+"children": [
+ {
+ "name": "Social Inclusion" 
+} 
+] 
+},
+{
+ "name": "Social Protection and Labor",
+"children": [
+ {
+ "name": "Labor Markets" 
+},
+{
+ "name": "Social Assistance",
+"children": [
+ {
+ "name": "Types of Beneficiaries",
+"children": [
+ {
+ "name": "Early Childhood" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Transport",
+"children": [
+ {
+ "name": "Transport and Sustainable Development",
+"children": [
+ {
+ "name": "Transport Impact on the Environment",
+"children": [
+ {
+ "name": "Transport and Climate Change",
+"children": [
+ {
+ "name": "Climate Change Adaptation" 
+},
+{
+ "name": "Climate Resilience" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Urban Development",
+"children": [
+ {
+ "name": "Disaster Risk Management",
+"children": [
+ {
+ "name": "Disaster Risk Reduction",
+"children": [
+ {
+ "name": "Disaster Resilience" 
+} 
+] 
+},
+{
+ "name": "Natural Disaster" 
+} 
+] 
+},
+{
+ "name": "National Urban Policies" 
+},
+{
+ "name": "Urban Transport",
+"children": [
+ {
+ "name": "Urban Transport Policy and Planning",
+"children": [
+ {
+ "name": "Low-Emissions Transport",
+"children": [
+ {
+ "name": "Transport and Climate Change",
+"children": [
+ {
+ "name": "Climate Change Adaptation" 
+},
+{
+ "name": "Climate Resilience" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Urban Water" 
+} 
+] 
+},
+{
+ "name": "Water",
+"children": [
+ {
+ "name": "Energy and Water" 
+},
+{
+ "name": "Water Security and Integrated Resource Management",
+"children": [
+ {
+ "name": "Integrated Water Management",
+"children": [
+ {
+ "name": "Water for Energy" 
+} 
+] 
+},
+{
+ "name": "Water Scarcity",
+"children": [
+ {
+ "name": "Water Efficiency" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Water Supply and Sanitation",
+"children": [
+ {
+ "name": "Sanitation" 
+},
+{
+ "name": "Water Supply",
+"children": [
+ {
+ "name": "Water Treatment" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+}

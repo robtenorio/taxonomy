@@ -1,0 +1,766 @@
+{
+ "name": "Maldives",
+"children": [
+ {
+ "name": "Keep",
+"children": [
+ {
+ "name": "CCSA",
+"children": [
+ {
+ "name": "Jobs",
+"children": [
+ {
+ "name": "Jobs and Development",
+"children": [
+ {
+ "name": "Jobs and Growth" 
+},
+{
+ "name": "Jobs and Poverty" 
+} 
+] 
+},
+{
+ "name": "Jobs Diagnostics",
+"children": [
+ {
+ "name": "Employee Returns to Work",
+"children": [
+ {
+ "name": "Reservation Wage" 
+} 
+] 
+},
+{
+ "name": "Job Quality and Labor Market Performance",
+"children": [
+ {
+ "name": "Labor Supply" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Jobs Strategies",
+"children": [
+ {
+ "name": "Firm Dynamics and Productivity Growth",
+"children": [
+ {
+ "name": "Access to Finance and Jobs" 
+} 
+] 
+},
+{
+ "name": "Industrial Policies",
+"children": [
+ {
+ "name": "Thematic and Sectoral  Prioritization",
+"children": [
+ {
+ "name": "Jobs in Education" 
+},
+{
+ "name": "Jobs in Trade and Competitiveness",
+"children": [
+ {
+ "name": "Jobs in Tourism" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Skills and Education" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "GP",
+"children": [
+ {
+ "name": "Environment and Natural Resources",
+"children": [
+ {
+ "name": "Environmental Sustainability",
+"children": [
+ {
+ "name": "Transport Impact on the Environment",
+"children": [
+ {
+ "name": "Transport and Climate Change",
+"children": [
+ {
+ "name": "Climate Resilience" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Natural Resources Management" 
+},
+{
+ "name": "Pollution Management",
+"children": [
+ {
+ "name": "Solid Waste" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Macroeconomic and Structural Policies",
+"children": [
+ {
+ "name": "Fiscal Policy",
+"children": [
+ {
+ "name": "Fiscal Decentralization",
+"children": [
+ {
+ "name": "Local Finance" 
+} 
+] 
+},
+{
+ "name": "Fiscal Risks" 
+},
+{
+ "name": "Government Expenditure" 
+} 
+] 
+},
+{
+ "name": "Macroeconomic Modelling and Statistics",
+"children": [
+ {
+ "name": "Household Surveys" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Remove",
+"children": [
+ {
+ "name": "CCSA",
+"children": [
+ {
+ "name": "Climate Change",
+"children": [
+ {
+ "name": "Climate Change Mitigation",
+"children": [
+ {
+ "name": "Transport and Climate Change",
+"children": [
+ {
+ "name": "Climate Resilience" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Gender",
+"children": [
+ {
+ "name": "Gender and Human Development",
+"children": [
+ {
+ "name": "Gender and Youth" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Jobs",
+"children": [
+ {
+ "name": "Jobs and Development",
+"children": [
+ {
+ "name": "Jobs and Poverty",
+"children": [
+ {
+ "name": "Urbanization and Jobs",
+"children": [
+ {
+ "name": "Urbanization and Growth",
+"children": [
+ {
+ "name": "Waste Generation" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Jobs Diagnostics",
+"children": [
+ {
+ "name": "Employment Tools and Methods",
+"children": [
+ {
+ "name": "Household Surveys" 
+} 
+] 
+},
+{
+ "name": "Firm-Level Employment Analysis",
+"children": [
+ {
+ "name": "Public Sector Jobs" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Jobs Strategies",
+"children": [
+ {
+ "name": "Industrial Policies",
+"children": [
+ {
+ "name": "Thematic and Sectoral  Prioritization",
+"children": [
+ {
+ "name": "Jobs in Trade and Competitiveness",
+"children": [
+ {
+ "name": "Jobs in Tourism" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Trade Policies and Jobs",
+"children": [
+ {
+ "name": "Competitiveness and Jobs" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "GP",
+"children": [
+ {
+ "name": "Agriculture and Food Security",
+"children": [
+ {
+ "name": "Natural Resources" 
+} 
+] 
+},
+{
+ "name": "Economic Growth",
+"children": [
+ {
+ "name": "Determinants of Economic Growth",
+"children": [
+ {
+ "name": "Finance and Growth" 
+},
+{
+ "name": "Urbanization and Growth",
+"children": [
+ {
+ "name": "Waste Generation" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Economic Growth Policy",
+"children": [
+ {
+ "name": "Jobs and Growth" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Education",
+"children": [
+ {
+ "name": "Economics of Education",
+"children": [
+ {
+ "name": "Economic Analysis of Education",
+"children": [
+ {
+ "name": "Education and Economic Growth" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Education for All",
+"children": [
+ {
+ "name": "Education, Skills Development and Labor Market",
+"children": [
+ {
+ "name": "Soft Skills",
+"children": [
+ {
+ "name": "Social Skills" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Quality of Education" 
+},
+{
+ "name": "Social Demand for Education",
+"children": [
+ {
+ "name": "Education and Poverty Reduction" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Levels of Education",
+"children": [
+ {
+ "name": "Secondary Education" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Energy and Extractives",
+"children": [
+ {
+ "name": "Energy Finance" 
+},
+{
+ "name": "Power and Electricity Sector",
+"children": [
+ {
+ "name": "Energy Subsidies" 
+} 
+] 
+},
+{
+ "name": "Power Systems",
+"children": [
+ {
+ "name": "Energy and Water" 
+} 
+] 
+},
+{
+ "name": "Renewable Energy" 
+} 
+] 
+},
+{
+ "name": "Financial Sector Development",
+"children": [
+ {
+ "name": "Capital Markets",
+"children": [
+ {
+ "name": "Non-Bank Financial Institutions",
+"children": [
+ {
+ "name": "Pension Funds" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Financial Inclusion",
+"children": [
+ {
+ "name": "Access to Finance" 
+} 
+] 
+},
+{
+ "name": "Financial Institutions",
+"children": [
+ {
+ "name": "Insurance Services" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Health, Nutrition and Population",
+"children": [
+ {
+ "name": "Health" 
+},
+{
+ "name": "Public Health" 
+} 
+] 
+},
+{
+ "name": "Information and Communication Technologies",
+"children": [
+ {
+ "name": "ICT for Jobs",
+"children": [
+ {
+ "name": "ICT Industry and Services",
+"children": [
+ {
+ "name": "ICT and Financial Sector",
+"children": [
+ {
+ "name": "Mobile Money" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Telecommunications and Broadband Access",
+"children": [
+ {
+ "name": "Access and Connectivity",
+"children": [
+ {
+ "name": "Universal Service Fund" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Macroeconomic and Structural Policies",
+"children": [
+ {
+ "name": "Fiscal Policy",
+"children": [
+ {
+ "name": "Government Expenditure" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Macroeconomic Vulnerability and Debt",
+"children": [
+ {
+ "name": "Debt and Macroeconomic Stability",
+"children": [
+ {
+ "name": "Debt Management" 
+} 
+] 
+},
+{
+ "name": "Fiscal Risks" 
+} 
+] 
+},
+{
+ "name": "Poverty",
+"children": [
+ {
+ "name": "Markets and Institutions for Poverty Reduction and Shared Prosperity",
+"children": [
+ {
+ "name": "Determinants of Economic Growth",
+"children": [
+ {
+ "name": "Finance and Growth" 
+},
+{
+ "name": "Urbanization and Growth",
+"children": [
+ {
+ "name": "Waste Generation" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Jobs and Poverty" 
+} 
+] 
+},
+{
+ "name": "Poverty Measurement and Analysis" 
+} 
+] 
+},
+{
+ "name": "Private Sector Development",
+"children": [
+ {
+ "name": "Competitive Industries",
+"children": [
+ {
+ "name": "Industry Policy and Real Sectors",
+"children": [
+ {
+ "name": "Manufacturing, Agribusiness, and Services",
+"children": [
+ {
+ "name": "Tourism, Retail, Construction, and Real Estates",
+"children": [
+ {
+ "name": "Tourism" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Public Sector Management",
+"children": [
+ {
+ "name": "Public Administration",
+"children": [
+ {
+ "name": "Public Service Delivery" 
+} 
+] 
+},
+{
+ "name": "Public Finance",
+"children": [
+ {
+ "name": "Fiscal Policy",
+"children": [
+ {
+ "name": "Fiscal Decentralization",
+"children": [
+ {
+ "name": "Local Finance" 
+} 
+] 
+},
+{
+ "name": "Fiscal Risks" 
+},
+{
+ "name": "Government Expenditure" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Social Protection and Labor",
+"children": [
+ {
+ "name": "Labor Markets",
+"children": [
+ {
+ "name": "General Labor Market Issues",
+"children": [
+ {
+ "name": "Labor Market Analysis" 
+} 
+] 
+},
+{
+ "name": "Labor Demand",
+"children": [
+ {
+ "name": "Self-Employment and Entrepreneurship",
+"children": [
+ {
+ "name": "Livelihoods" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Labor Supply" 
+} 
+] 
+},
+{
+ "name": "Social Assistance",
+"children": [
+ {
+ "name": "Type of Benefits",
+"children": [
+ {
+ "name": "Price Subsidies" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Transport",
+"children": [
+ {
+ "name": "Transport and Sustainable Development",
+"children": [
+ {
+ "name": "Transport Impact on the Environment",
+"children": [
+ {
+ "name": "Transport and Climate Change",
+"children": [
+ {
+ "name": "Climate Resilience" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Urban Development",
+"children": [
+ {
+ "name": "Green Cities",
+"children": [
+ {
+ "name": "Municipal Waste Management",
+"children": [
+ {
+ "name": "Energy from Waste" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Urban Governance and City Systems",
+"children": [
+ {
+ "name": "Local Finance" 
+},
+{
+ "name": "Waste Management Planning" 
+} 
+] 
+},
+{
+ "name": "Urban Transport",
+"children": [
+ {
+ "name": "Urban Transport Policy and Planning",
+"children": [
+ {
+ "name": "Low-Emissions Transport",
+"children": [
+ {
+ "name": "Transport and Climate Change",
+"children": [
+ {
+ "name": "Climate Resilience" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Transport and Poverty" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Urbanization and Growth",
+"children": [
+ {
+ "name": "Waste Generation" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Water",
+"children": [
+ {
+ "name": "Energy and Water" 
+},
+{
+ "name": "Water Security and Integrated Resource Management",
+"children": [
+ {
+ "name": "Integrated Water Management",
+"children": [
+ {
+ "name": "Water for Energy" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+}

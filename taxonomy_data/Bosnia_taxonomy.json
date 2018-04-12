@@ -1,0 +1,885 @@
+{
+ "name": "Bosnia",
+"children": [
+ {
+ "name": "Keep",
+"children": [
+ {
+ "name": "GP",
+"children": [
+ {
+ "name": "Energy and Extractives",
+"children": [
+ {
+ "name": "Energy Efficiency" 
+},
+{
+ "name": "Renewable Energy" 
+} 
+] 
+},
+{
+ "name": "Environment and Natural Resources",
+"children": [
+ {
+ "name": "Environmental Management" 
+},
+{
+ "name": "Natural Resources Management",
+"children": [
+ {
+ "name": "Natural Resources" 
+} 
+] 
+},
+{
+ "name": "Pollution Management",
+"children": [
+ {
+ "name": "Solid Waste" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Financial Sector Development",
+"children": [
+ {
+ "name": "Financial Inclusion",
+"children": [
+ {
+ "name": "Access to Finance" 
+},
+{
+ "name": "MSME Finance",
+"children": [
+ {
+ "name": "Microfinance" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Financial Institutions" 
+} 
+] 
+},
+{
+ "name": "Macroeconomic Vulnerability and Debt",
+"children": [
+ {
+ "name": "Debt and Macroeconomic Stability",
+"children": [
+ {
+ "name": "Debt Management" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Public Sector Management",
+"children": [
+ {
+ "name": "Governance in Public Sector",
+"children": [
+ {
+ "name": "Governance Indicators" 
+} 
+] 
+},
+{
+ "name": "Public Administration",
+"children": [
+ {
+ "name": "Public Service Delivery",
+"children": [
+ {
+ "name": "State Owned Enterprises",
+"children": [
+ {
+ "name": "Privatization" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Public Finance",
+"children": [
+ {
+ "name": "Fiscal Policy",
+"children": [
+ {
+ "name": "Fiscal Risks" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Social Protection and Labor",
+"children": [
+ {
+ "name": "Labor Markets" 
+},
+{
+ "name": "Social Assistance" 
+},
+{
+ "name": "Social Insurance",
+"children": [
+ {
+ "name": "Other Social Insurance Benefits",
+"children": [
+ {
+ "name": "Unemployment Benefits" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Water",
+"children": [
+ {
+ "name": "Water Security and Integrated Resource Management",
+"children": [
+ {
+ "name": "Water Scarcity",
+"children": [
+ {
+ "name": "Water Efficiency" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Water Supply and Sanitation",
+"children": [
+ {
+ "name": "Sanitation" 
+},
+{
+ "name": "Water Supply",
+"children": [
+ {
+ "name": "Water Treatment" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Remove",
+"children": [
+ {
+ "name": "CCSA",
+"children": [
+ {
+ "name": "Jobs",
+"children": [
+ {
+ "name": "Jobs and Development",
+"children": [
+ {
+ "name": "Jobs and Poverty",
+"children": [
+ {
+ "name": "Labor Market Institutions and Policies",
+"children": [
+ {
+ "name": "Minimal and Living Wages",
+"children": [
+ {
+ "name": "Minimum Wages" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Jobs Diagnostics",
+"children": [
+ {
+ "name": "Categories of Employment",
+"children": [
+ {
+ "name": "Formal Employment" 
+} 
+] 
+},
+{
+ "name": "Employment Tools and Methods",
+"children": [
+ {
+ "name": "Employment Administrative Data" 
+},
+{
+ "name": "Household Surveys" 
+} 
+] 
+},
+{
+ "name": "Job Quality and Labor Market Performance",
+"children": [
+ {
+ "name": "Labor Supply",
+"children": [
+ {
+ "name": "Employment Incentives",
+"children": [
+ {
+ "name": "Public Works" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Unemployment" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Jobs Strategies",
+"children": [
+ {
+ "name": "Skills and Education",
+"children": [
+ {
+ "name": "Labor Flexibility" 
+} 
+] 
+},
+{
+ "name": "Trade Policies and Jobs",
+"children": [
+ {
+ "name": "Trade in Services" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "GP",
+"children": [
+ {
+ "name": "Agriculture and Food Security",
+"children": [
+ {
+ "name": "Climate Smart Agriculture",
+"children": [
+ {
+ "name": "Agricultural Water Management",
+"children": [
+ {
+ "name": "Water Scarcity",
+"children": [
+ {
+ "name": "Water Efficiency" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Natural Resources" 
+} 
+] 
+},
+{
+ "name": "Economic Growth",
+"children": [
+ {
+ "name": "Determinants of Economic Growth",
+"children": [
+ {
+ "name": "Finance and Growth" 
+},
+{
+ "name": "Macroeconomic Stability and Growth",
+"children": [
+ {
+ "name": "Fiscal Policy and Growth" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Economic Growth Diagnostics",
+"children": [
+ {
+ "name": "Government Failures",
+"children": [
+ {
+ "name": "Institutions and Growth" 
+} 
+] 
+},
+{
+ "name": "Market Failures",
+"children": [
+ {
+ "name": "Infrastructure and Growth" 
+},
+{
+ "name": "Trade and Growth" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Inclusive Growth",
+"children": [
+ {
+ "name": "Social Protection and Growth" 
+} 
+] 
+},
+{
+ "name": "Sustainable Economic Growth",
+"children": [
+ {
+ "name": "Macroeconomic Sustainability",
+"children": [
+ {
+ "name": "Fiscal Sustainability" 
+} 
+] 
+},
+{
+ "name": "Political and Institutional Sustainability",
+"children": [
+ {
+ "name": "Governance and Growth" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Education",
+"children": [
+ {
+ "name": "Education for All",
+"children": [
+ {
+ "name": "Social Demand for Education",
+"children": [
+ {
+ "name": "Education and Health",
+"children": [
+ {
+ "name": "Pharmaceuticals" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Financial Sector Development",
+"children": [
+ {
+ "name": "Capital Markets" 
+},
+{
+ "name": "Financial Inclusion",
+"children": [
+ {
+ "name": "Access to Finance" 
+} 
+] 
+},
+{
+ "name": "Financial Institutions" 
+} 
+] 
+},
+{
+ "name": "Health, Nutrition and Population",
+"children": [
+ {
+ "name": "Health" 
+},
+{
+ "name": "Public Health" 
+} 
+] 
+},
+{
+ "name": "Information and Communication Technologies",
+"children": [
+ {
+ "name": "Digital Government",
+"children": [
+ {
+ "name": "ICT Applications",
+"children": [
+ {
+ "name": "Enterprise Applications",
+"children": [
+ {
+ "name": "Knowledge Management" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Macroeconomic and Structural Policies",
+"children": [
+ {
+ "name": "Fiscal Policy",
+"children": [
+ {
+ "name": "Fiscal Risks" 
+},
+{
+ "name": "Fiscal Sustainability" 
+},
+{
+ "name": "Government Expenditure" 
+} 
+] 
+},
+{
+ "name": "Macroeconomic Modelling and Statistics",
+"children": [
+ {
+ "name": "Household Surveys" 
+} 
+] 
+},
+{
+ "name": "Macroeconomic Monitoring",
+"children": [
+ {
+ "name": "Economic Growth Diagnostics",
+"children": [
+ {
+ "name": "Government Failures",
+"children": [
+ {
+ "name": "Institutions and Growth" 
+} 
+] 
+},
+{
+ "name": "Market Failures",
+"children": [
+ {
+ "name": "Infrastructure and Growth" 
+},
+{
+ "name": "Trade and Growth" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Macroeconomic Vulnerability and Debt",
+"children": [
+ {
+ "name": "Fiscal Risks" 
+} 
+] 
+},
+{
+ "name": "Poverty",
+"children": [
+ {
+ "name": "Behavioral Initiatives for Poverty Reduction and Equity",
+"children": [
+ {
+ "name": "Decision Making and Poverty" 
+} 
+] 
+},
+{
+ "name": "Markets and Institutions for Poverty Reduction and Shared Prosperity",
+"children": [
+ {
+ "name": "Determinants of Economic Growth",
+"children": [
+ {
+ "name": "Finance and Growth" 
+},
+{
+ "name": "Infrastructure and Growth" 
+},
+{
+ "name": "Macroeconomic Stability and Growth",
+"children": [
+ {
+ "name": "Fiscal Policy and Growth" 
+} 
+] 
+},
+{
+ "name": "Trade and Growth" 
+} 
+] 
+},
+{
+ "name": "Government Failures",
+"children": [
+ {
+ "name": "Institutions and Growth" 
+} 
+] 
+},
+{
+ "name": "Jobs and Poverty",
+"children": [
+ {
+ "name": "Labor Market Institutions and Policies",
+"children": [
+ {
+ "name": "Minimal and Living Wages",
+"children": [
+ {
+ "name": "Minimum Wages" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Shocks and Vulnerability to Poverty",
+"children": [
+ {
+ "name": "Poverty, Nutrition and Food Security",
+"children": [
+ {
+ "name": "Disaster Risk Management",
+"children": [
+ {
+ "name": "Man-Made Disasters",
+"children": [
+ {
+ "name": "Environmental Disaster",
+"children": [
+ {
+ "name": "Deforestation" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Natural Disaster",
+"children": [
+ {
+ "name": "Hydrological Event",
+"children": [
+ {
+ "name": "Erosion" 
+} 
+] 
+},
+{
+ "name": "Meteorological Disaster",
+"children": [
+ {
+ "name": "General Meteorological Themes",
+"children": [
+ {
+ "name": {
+ "concept_8": [ "Weather Disaster" ] 
+} 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Natural Disaster Shocks",
+"children": [
+ {
+ "name": "Flood" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Private Sector Development",
+"children": [
+ {
+ "name": "Competitive Industries",
+"children": [
+ {
+ "name": "Industry Policy and Real Sectors",
+"children": [
+ {
+ "name": "Manufacturing, Agribusiness, and Services",
+"children": [
+ {
+ "name": "Pharmaceuticals" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Innovation, Technology and Entrepreneurship",
+"children": [
+ {
+ "name": "SME Development" 
+} 
+] 
+},
+{
+ "name": "Investment Climate",
+"children": [
+ {
+ "name": "Business Environment" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Public Sector Management",
+"children": [
+ {
+ "name": "Public Administration",
+"children": [
+ {
+ "name": "Public Service Delivery" 
+} 
+] 
+},
+{
+ "name": "Public Finance" 
+} 
+] 
+},
+{
+ "name": "Social Development",
+"children": [
+ {
+ "name": "Social Inclusion",
+"children": [
+ {
+ "name": "Vulnerable Groups" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Social Protection and Labor",
+"children": [
+ {
+ "name": "Social Assistance",
+"children": [
+ {
+ "name": "Type of Benefits",
+"children": [
+ {
+ "name": "Cash Transfers",
+"children": [
+ {
+ "name": "Public Works" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Trade",
+"children": [
+ {
+ "name": "Trade Policy and Integration",
+"children": [
+ {
+ "name": "Trade in Services" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Transport",
+"children": [
+ {
+ "name": "Transport Economics",
+"children": [
+ {
+ "name": "Road Financing",
+"children": [
+ {
+ "name": "Road Upgrading" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Transport Infrastructure" 
+} 
+] 
+},
+{
+ "name": "Urban Development",
+"children": [
+ {
+ "name": "Disaster Risk Management",
+"children": [
+ {
+ "name": "Man-Made Disasters",
+"children": [
+ {
+ "name": "Environmental Disaster",
+"children": [
+ {
+ "name": "Deforestation" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Natural Disaster",
+"children": [
+ {
+ "name": "Hydrological Event",
+"children": [
+ {
+ "name": "Erosion" 
+},
+{
+ "name": "Flood" 
+} 
+] 
+},
+{
+ "name": "Meteorological Disaster",
+"children": [
+ {
+ "name": "General Meteorological Themes",
+"children": [
+ {
+ "name": "Weather Disaster" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Urban Solid Waste Management and Cleaning Services",
+"children": [
+ {
+ "name": "Waste Collection" 
+} 
+] 
+},
+{
+ "name": "Urban Transport",
+"children": [
+ {
+ "name": "Urban Transport Policy and Planning",
+"children": [
+ {
+ "name": "Transport and Poverty" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Urban Water" 
+} 
+] 
+},
+{
+ "name": "Water",
+"children": [
+ {
+ "name": "Water Security and Integrated Resource Management",
+"children": [
+ {
+ "name": "Flood" 
+},
+{
+ "name": "River Basin Management" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+}

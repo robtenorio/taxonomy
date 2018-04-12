@@ -1,0 +1,962 @@
+{
+ "name": "Montenegro",
+"children": [
+ {
+ "name": "Keep",
+"children": [
+ {
+ "name": "CCSA",
+"children": [
+ {
+ "name": "Jobs",
+"children": [
+ {
+ "name": "Jobs and Development",
+"children": [
+ {
+ "name": "Jobs and Growth" 
+},
+{
+ "name": "Jobs and Poverty",
+"children": [
+ {
+ "name": "Labor Market Institutions and Policies",
+"children": [
+ {
+ "name": "Job Sharing" 
+},
+{
+ "name": "Labor Contracts",
+"children": [
+ {
+ "name": "Employment Relationship",
+"children": [
+ {
+ "name": "Part-Time Work" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Minimal and Living Wages",
+"children": [
+ {
+ "name": "Minimum Wages" 
+} 
+] 
+},
+{
+ "name": "Working Conditions",
+"children": [
+ {
+ "name": "Employment Protection" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Jobs Diagnostics",
+"children": [
+ {
+ "name": "Categories of Employment",
+"children": [
+ {
+ "name": "Formal Employment" 
+},
+{
+ "name": "Retirement" 
+} 
+] 
+},
+{
+ "name": "Categories of Workers",
+"children": [
+ {
+ "name": "Migrant Workers" 
+} 
+] 
+},
+{
+ "name": "Job Quality and Labor Market Performance",
+"children": [
+ {
+ "name": "Labor Force Participation" 
+},
+{
+ "name": "Unemployment" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Jobs Strategies",
+"children": [
+ {
+ "name": "Fiscal Policy and Jobs",
+"children": [
+ {
+ "name": "Labor Taxes" 
+},
+{
+ "name": "Tax Incentives" 
+} 
+] 
+},
+{
+ "name": "Industrial Policies",
+"children": [
+ {
+ "name": "Industrial Clusters and Value Chains",
+"children": [
+ {
+ "name": "Tourism Value Chain" 
+} 
+] 
+},
+{
+ "name": "Thematic and Sectoral  Prioritization",
+"children": [
+ {
+ "name": "Jobs in Agriculture" 
+},
+{
+ "name": "Jobs in Trade and Competitiveness",
+"children": [
+ {
+ "name": "Jobs in Tourism" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Trade Policies and Jobs",
+"children": [
+ {
+ "name": "Competitiveness and Jobs" 
+},
+{
+ "name": "Trade in Services",
+"children": [
+ {
+ "name": "Services Trade Competitiveness",
+"children": [
+ {
+ "name": "Services Exports" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "GP",
+"children": [
+ {
+ "name": "Education",
+"children": [
+ {
+ "name": "Economics of Education",
+"children": [
+ {
+ "name": "Education Finance",
+"children": [
+ {
+ "name": "Private Education" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Education for All",
+"children": [
+ {
+ "name": "Education Access and Equity",
+"children": [
+ {
+ "name": "Education and Gender" 
+} 
+] 
+},
+{
+ "name": "Quality of Education" 
+} 
+] 
+},
+{
+ "name": "Education Management and Administration",
+"children": [
+ {
+ "name": "Education Policy and Planning",
+"children": [
+ {
+ "name": "Education Reform" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Levels of Education",
+"children": [
+ {
+ "name": "Tertiary Education" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Financial Sector Development",
+"children": [
+ {
+ "name": "Financial Architecture and Banking",
+"children": [
+ {
+ "name": "Banking Institutions" 
+} 
+] 
+},
+{
+ "name": "Financial Inclusion",
+"children": [
+ {
+ "name": "MSME Finance",
+"children": [
+ {
+ "name": "Microfinance" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Financial Institutions",
+"children": [
+ {
+ "name": "Banking Strategy and Risk Management",
+"children": [
+ {
+ "name": "Banking Regulation" 
+},
+{
+ "name": "Banking Risk Management" 
+} 
+] 
+},
+{
+ "name": "Housing Finance" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Macroeconomic and Structural Policies",
+"children": [
+ {
+ "name": "Fiscal Policy" 
+},
+{
+ "name": "Macroprudential Policy",
+"children": [
+ {
+ "name": "Banking Regulation",
+"children": [
+ {
+ "name": "Bank Regulation and Supervision",
+"children": [
+ {
+ "name": "Bank Liquidity" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Remove",
+"children": [
+ {
+ "name": "CCSA",
+"children": [
+ {
+ "name": "Gender",
+"children": [
+ {
+ "name": "Gender and Human Development",
+"children": [
+ {
+ "name": "Education and Gender" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Jobs",
+"children": [
+ {
+ "name": "Inclusive Jobs",
+"children": [
+ {
+ "name": "Youth Employment",
+"children": [
+ {
+ "name": "School-to-work Transition" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Jobs and Development",
+"children": [
+ {
+ "name": "Jobs and Poverty",
+"children": [
+ {
+ "name": "Labor Market Institutions and Policies",
+"children": [
+ {
+ "name": "Labor Contracts",
+"children": [
+ {
+ "name": "Employment Relationship" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Jobs Strategies",
+"children": [
+ {
+ "name": "Skills and Education" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "GP",
+"children": [
+ {
+ "name": "Agriculture and Food Security",
+"children": [
+ {
+ "name": "Climate Smart Agriculture",
+"children": [
+ {
+ "name": "Agriculture Technology" 
+} 
+] 
+},
+{
+ "name": "Commercial Agriculture",
+"children": [
+ {
+ "name": "Agribusiness Development" 
+},
+{
+ "name": "Agribusiness Management" 
+} 
+] 
+},
+{
+ "name": "Rural Development" 
+} 
+] 
+},
+{
+ "name": "Economic Growth",
+"children": [
+ {
+ "name": "Determinants of Economic Growth",
+"children": [
+ {
+ "name": "Finance and Growth" 
+},
+{
+ "name": "Macroeconomic Stability and Growth",
+"children": [
+ {
+ "name": "Fiscal Policy and Growth" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Economic Growth Diagnostics",
+"children": [
+ {
+ "name": "Government Failures",
+"children": [
+ {
+ "name": "Institutions and Growth" 
+} 
+] 
+},
+{
+ "name": "Market Failures",
+"children": [
+ {
+ "name": "Infrastructure and Growth" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Economic Growth Policy",
+"children": [
+ {
+ "name": "Jobs and Growth" 
+} 
+] 
+},
+{
+ "name": "Inclusive Growth",
+"children": [
+ {
+ "name": "Social Protection and Growth" 
+} 
+] 
+},
+{
+ "name": "Innovation and Growth" 
+},
+{
+ "name": "Sustainable Economic Growth",
+"children": [
+ {
+ "name": "Macroeconomic Sustainability",
+"children": [
+ {
+ "name": "Fiscal Sustainability" 
+} 
+] 
+},
+{
+ "name": "Political and Institutional Sustainability",
+"children": [
+ {
+ "name": "Governance and Growth" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Energy and Extractives",
+"children": [
+ {
+ "name": "Energy Efficiency" 
+},
+{
+ "name": "Energy Finance" 
+},
+{
+ "name": "Renewable Energy" 
+} 
+] 
+},
+{
+ "name": "Financial Sector Development",
+"children": [
+ {
+ "name": "Capital Markets",
+"children": [
+ {
+ "name": "Non-Bank Financial Institutions",
+"children": [
+ {
+ "name": "Pension Funds" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Financial Inclusion",
+"children": [
+ {
+ "name": "Access to Finance" 
+},
+{
+ "name": "MSME Finance",
+"children": [
+ {
+ "name": "Microfinance" 
+} 
+] 
+},
+{
+ "name": "Rural Finance" 
+} 
+] 
+},
+{
+ "name": "Financial Infrastructure and Remittances",
+"children": [
+ {
+ "name": "Payment and Market Infrastructure",
+"children": [
+ {
+ "name": "Government Payments" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Financial Institutions",
+"children": [
+ {
+ "name": "Banking Strategy and Risk Management",
+"children": [
+ {
+ "name": "Banking Regulation",
+"children": [
+ {
+ "name": "Bank Regulation and Supervision",
+"children": [
+ {
+ "name": "Bank Liquidity" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Health, Nutrition and Population",
+"children": [
+ {
+ "name": "Health" 
+},
+{
+ "name": "Public Health" 
+} 
+] 
+},
+{
+ "name": "Information and Communication Technologies",
+"children": [
+ {
+ "name": "Digital Government",
+"children": [
+ {
+ "name": "ICT Infrastructure" 
+} 
+] 
+},
+{
+ "name": "ICT for Jobs",
+"children": [
+ {
+ "name": "ICT Industry and Services",
+"children": [
+ {
+ "name": "ICT and Agriculture" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Macroeconomic and Structural Policies",
+"children": [
+ {
+ "name": "Fiscal Policy",
+"children": [
+ {
+ "name": "Fiscal Decentralization",
+"children": [
+ {
+ "name": "Local Finance" 
+} 
+] 
+},
+{
+ "name": "Fiscal Risks" 
+} 
+] 
+},
+{
+ "name": "Macroeconomic Monitoring",
+"children": [
+ {
+ "name": "Economic Growth Diagnostics",
+"children": [
+ {
+ "name": "Government Failures",
+"children": [
+ {
+ "name": "Institutions and Growth" 
+} 
+] 
+},
+{
+ "name": "Market Failures",
+"children": [
+ {
+ "name": "Infrastructure and Growth" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Macroprudential Policy",
+"children": [
+ {
+ "name": "Banking Regulation" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Macroeconomic Vulnerability and Debt",
+"children": [
+ {
+ "name": "Fiscal Risks" 
+} 
+] 
+},
+{
+ "name": "Poverty",
+"children": [
+ {
+ "name": "Markets and Institutions for Poverty Reduction and Shared Prosperity",
+"children": [
+ {
+ "name": "Determinants of Economic Growth",
+"children": [
+ {
+ "name": "Finance and Growth" 
+},
+{
+ "name": "Infrastructure and Growth" 
+},
+{
+ "name": "Macroeconomic Stability and Growth",
+"children": [
+ {
+ "name": "Fiscal Policy and Growth" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Government Failures",
+"children": [
+ {
+ "name": "Institutions and Growth" 
+} 
+] 
+},
+{
+ "name": "Jobs and Poverty",
+"children": [
+ {
+ "name": "Labor Market Institutions and Policies",
+"children": [
+ {
+ "name": "Job Sharing" 
+},
+{
+ "name": "Labor Contracts",
+"children": [
+ {
+ "name": "Employment Relationship" 
+} 
+] 
+},
+{
+ "name": "Minimal and Living Wages",
+"children": [
+ {
+ "name": "Minimum Wages" 
+} 
+] 
+},
+{
+ "name": "Working Conditions",
+"children": [
+ {
+ "name": "Employment Protection" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Private Sector Development",
+"children": [
+ {
+ "name": "Competitive Industries",
+"children": [
+ {
+ "name": "Industrial Clusters and Value Chains",
+"children": [
+ {
+ "name": "Tourism Value Chain" 
+} 
+] 
+},
+{
+ "name": "Industry Policy and Real Sectors",
+"children": [
+ {
+ "name": "Manufacturing, Agribusiness, and Services",
+"children": [
+ {
+ "name": "Agribusiness and Forestry",
+"children": [
+ {
+ "name": "Agribusiness" 
+} 
+] 
+},
+{
+ "name": "Tourism, Retail, Construction, and Real Estates",
+"children": [
+ {
+ "name": "Tourism" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Innovation, Technology and Entrepreneurship",
+"children": [
+ {
+ "name": "SME Development",
+"children": [
+ {
+ "name": "Business Development Services" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Investment Climate",
+"children": [
+ {
+ "name": "Business Environment" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Public Sector Management",
+"children": [
+ {
+ "name": "Legal and Regulatory Framework",
+"children": [
+ {
+ "name": "Financial Laws and Regulations",
+"children": [
+ {
+ "name": "Banking Regulation",
+"children": [
+ {
+ "name": "Bank Regulation and Supervision",
+"children": [
+ {
+ "name": "Bank Liquidity" 
+} 
+] 
+},
+{
+ "name": "Banking Risk Governance" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Public Administration" 
+},
+{
+ "name": "Public Finance" 
+} 
+] 
+},
+{
+ "name": "Social Development",
+"children": [
+ {
+ "name": "Social Accountability",
+"children": [
+ {
+ "name": "Local Governance" 
+} 
+] 
+},
+{
+ "name": "Social Inclusion",
+"children": [
+ {
+ "name": "Vulnerable Groups" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Social Protection and Labor",
+"children": [
+ {
+ "name": "Labor Markets",
+"children": [
+ {
+ "name": "Active Labor Market Policies",
+"children": [
+ {
+ "name": "Benefit Administration" 
+},
+{
+ "name": "Wage Determination",
+"children": [
+ {
+ "name": "Minimum Wages" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Labor Demand" 
+},
+{
+ "name": "Labor Market Equilibrium",
+"children": [
+ {
+ "name": "Youth Employment",
+"children": [
+ {
+ "name": "School-to-work Transition" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Passive Labor Market Policies",
+"children": [
+ {
+ "name": "Early Retirement" 
+} 
+] 
+},
+{
+ "name": "Public Employment Services" 
+} 
+] 
+},
+{
+ "name": "Social Assistance" 
+},
+{
+ "name": "Social Protection and Labor Systems" 
+} 
+] 
+},
+{
+ "name": "Trade",
+"children": [
+ {
+ "name": "Trade Competitiveness and Diversification",
+"children": [
+ {
+ "name": "Services Trade Competitiveness",
+"children": [
+ {
+ "name": "Services Exports" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Urban Development",
+"children": [
+ {
+ "name": "Urban Governance and City Systems",
+"children": [
+ {
+ "name": "Local Finance" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+}

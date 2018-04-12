@@ -1,0 +1,1186 @@
+{
+ "name": "Azerbhaijan",
+"children": [
+ {
+ "name": "Keep",
+"children": [
+ {
+ "name": "GP",
+"children": [
+ {
+ "name": "Agriculture and Food Security",
+"children": [
+ {
+ "name": "Agricultural Risk and Security",
+"children": [
+ {
+ "name": "Food Security" 
+} 
+] 
+},
+{
+ "name": "Commercial Agriculture",
+"children": [
+ {
+ "name": "Agribusiness Development" 
+} 
+] 
+},
+{
+ "name": "Linking Farmers with Markets",
+"children": [
+ {
+ "name": "Agricultural Finance" 
+},
+{
+ "name": "Farm Inputs",
+"children": [
+ {
+ "name": "Rural Roads" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Rural Development" 
+} 
+] 
+},
+{
+ "name": "Energy and Extractives",
+"children": [
+ {
+ "name": "Renewable Energy" 
+} 
+] 
+},
+{
+ "name": "Financial Sector Development",
+"children": [
+ {
+ "name": "Capital Markets" 
+},
+{
+ "name": "Financial Architecture and Banking",
+"children": [
+ {
+ "name": "Banking Institutions" 
+},
+{
+ "name": "Financial Intermediaries" 
+} 
+] 
+},
+{
+ "name": "Financial Inclusion",
+"children": [
+ {
+ "name": "Access to Finance" 
+},
+{
+ "name": "Consumer Protection" 
+},
+{
+ "name": "Financial Literacy" 
+} 
+] 
+},
+{
+ "name": "Financial Institutions" 
+} 
+] 
+},
+{
+ "name": "Public Sector Management",
+"children": [
+ {
+ "name": "Justice",
+"children": [
+ {
+ "name": "Anti-Corruption" 
+} 
+] 
+},
+{
+ "name": "Public Administration",
+"children": [
+ {
+ "name": "Public Service Delivery" 
+} 
+] 
+},
+{
+ "name": "Public Finance",
+"children": [
+ {
+ "name": "Fiscal Policy" 
+},
+{
+ "name": "Government Procurement",
+"children": [
+ {
+ "name": "International Procurement" 
+},
+{
+ "name": "Procurement Planning" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Trade",
+"children": [
+ {
+ "name": "Trade Policy and Integration",
+"children": [
+ {
+ "name": "Impact of Trade",
+"children": [
+ {
+ "name": "Trade and the Environment" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Transport",
+"children": [
+ {
+ "name": "Modes of Transport",
+"children": [
+ {
+ "name": "Road Transport" 
+} 
+] 
+},
+{
+ "name": "Rural Transport" 
+},
+{
+ "name": "Transport and Logistics Services",
+"children": [
+ {
+ "name": "Logistics Hubs and Platforms" 
+} 
+] 
+},
+{
+ "name": "Transport Economics",
+"children": [
+ {
+ "name": "Road Financing",
+"children": [
+ {
+ "name": "Road Maintenance" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Transport Infrastructure" 
+} 
+] 
+},
+{
+ "name": "Urban Development",
+"children": [
+ {
+ "name": "Green Cities",
+"children": [
+ {
+ "name": "Municipal Waste Management",
+"children": [
+ {
+ "name": "Energy from Waste" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Inclusive Cities" 
+},
+{
+ "name": "Urban Governance and City Systems",
+"children": [
+ {
+ "name": "Waste Management Planning",
+"children": [
+ {
+ "name": "Community Development and Solid Waste Management" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Urban Solid Waste Management and Cleaning Services",
+"children": [
+ {
+ "name": "Waste Collection" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Remove",
+"children": [
+ {
+ "name": "CCSA",
+"children": [
+ {
+ "name": "Climate Change",
+"children": [
+ {
+ "name": "Climate Finance",
+"children": [
+ {
+ "name": "Solar Energy" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Jobs",
+"children": [
+ {
+ "name": "Jobs and Development",
+"children": [
+ {
+ "name": "Jobs and Growth" 
+} 
+] 
+},
+{
+ "name": "Jobs Strategies",
+"children": [
+ {
+ "name": "Industrial Policies",
+"children": [
+ {
+ "name": "Thematic and Sectoral  Prioritization",
+"children": [
+ {
+ "name": "Jobs in Agriculture" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Public-Private Partnerships",
+"children": [
+ {
+ "name": "PPP Project Selection",
+"children": [
+ {
+ "name": "PPP Project Assessment",
+"children": [
+ {
+ "name": "PPP Project Development" 
+} 
+] 
+},
+{
+ "name": "PPP Project Identification",
+"children": [
+ {
+ "name": "PPP Pilot Projects" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Thematic-based PPPs",
+"children": [
+ {
+ "name": "PPP in Energy and Power" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "GP",
+"children": [
+ {
+ "name": "Agriculture and Food Security",
+"children": [
+ {
+ "name": "Linking Farmers with Markets",
+"children": [
+ {
+ "name": "Farm Inputs",
+"children": [
+ {
+ "name": "Rural Roads" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Rural Development" 
+} 
+] 
+},
+{
+ "name": "Economic Growth",
+"children": [
+ {
+ "name": "Determinants of Economic Growth",
+"children": [
+ {
+ "name": "Finance and Growth" 
+},
+{
+ "name": "Macroeconomic Stability and Growth",
+"children": [
+ {
+ "name": "Fiscal Policy and Growth" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Economic Growth Diagnostics",
+"children": [
+ {
+ "name": "Government Failures",
+"children": [
+ {
+ "name": "Institutions and Growth" 
+} 
+] 
+},
+{
+ "name": "Market Failures",
+"children": [
+ {
+ "name": "Infrastructure and Growth" 
+},
+{
+ "name": "Trade and Growth" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Economic Growth Policy",
+"children": [
+ {
+ "name": "Jobs and Growth" 
+} 
+] 
+},
+{
+ "name": "Inclusive Growth" 
+},
+{
+ "name": "Sustainable Economic Growth",
+"children": [
+ {
+ "name": "Diversified Development" 
+},
+{
+ "name": "Political and Institutional Sustainability",
+"children": [
+ {
+ "name": "Governance and Growth" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Education",
+"children": [
+ {
+ "name": "Education for All",
+"children": [
+ {
+ "name": "Education Access and Equity",
+"children": [
+ {
+ "name": "Inclusive Education" 
+},
+{
+ "name": "Rural Education" 
+} 
+] 
+},
+{
+ "name": "Social Demand for Education",
+"children": [
+ {
+ "name": "Education and Health" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Energy and Extractives",
+"children": [
+ {
+ "name": "Energy Access",
+"children": [
+ {
+ "name": "Electricity Access" 
+} 
+] 
+},
+{
+ "name": "Energy Finance",
+"children": [
+ {
+ "name": "PPP in Energy and Power" 
+} 
+] 
+},
+{
+ "name": "Power Systems",
+"children": [
+ {
+ "name": "Power Distribution" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Environment and Natural Resources",
+"children": [
+ {
+ "name": "Environmental Management" 
+},
+{
+ "name": "Environmental Sustainability" 
+},
+{
+ "name": "Pollution Management",
+"children": [
+ {
+ "name": "Environmental Health" 
+},
+{
+ "name": "Soil Pollution" 
+},
+{
+ "name": "Solid Waste" 
+},
+{
+ "name": "Urban Pollution",
+"children": [
+ {
+ "name": "Urban Pollution and Environmental Health",
+"children": [
+ {
+ "name": "Industrial Pollution" 
+},
+{
+ "name": "Legacy Pollution" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Water Pollution" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Financial Sector Development",
+"children": [
+ {
+ "name": "Financial Inclusion",
+"children": [
+ {
+ "name": "Access to Finance" 
+},
+{
+ "name": "Agricultural Finance" 
+},
+{
+ "name": "Branchless Banking",
+"children": [
+ {
+ "name": "Mobile Banking" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Financial Institutions",
+"children": [
+ {
+ "name": "Banking on Women" 
+},
+{
+ "name": "Climate Finance",
+"children": [
+ {
+ "name": "Solar Energy" 
+} 
+] 
+},
+{
+ "name": "Housing Finance",
+"children": [
+ {
+ "name": "Social Housing" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "International Financial Standards" 
+} 
+] 
+},
+{
+ "name": "Health, Nutrition and Population",
+"children": [
+ {
+ "name": "Health",
+"children": [
+ {
+ "name": "Disease Prevention",
+"children": [
+ {
+ "name": "HIV/AIDS",
+"children": [
+ {
+ "name": "HIV/AIDS Most-At-Risk Populations",
+"children": [
+ {
+ "name": "Refugees and AIDS" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Health Financing",
+"children": [
+ {
+ "name": "Government Financing for Health",
+"children": [
+ {
+ "name": "Fiscal Decentralization",
+"children": [
+ {
+ "name": "Local Finance",
+"children": [
+ {
+ "name": "Asset Management" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Health Systems",
+"children": [
+ {
+ "name": "Health Services Delivery",
+"children": [
+ {
+ "name": "Health Infrastructure" 
+},
+{
+ "name": "Quality of Health Services" 
+},
+{
+ "name": "Rural Health" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Human Resources for Health",
+"children": [
+ {
+ "name": "Hospital Management" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Public Health" 
+} 
+] 
+},
+{
+ "name": "Information and Communication Technologies",
+"children": [
+ {
+ "name": "Digital Government",
+"children": [
+ {
+ "name": "ICT Applications",
+"children": [
+ {
+ "name": "Enterprise Applications",
+"children": [
+ {
+ "name": "Mobile Applications" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "ICT Infrastructure",
+"children": [
+ {
+ "name": "Shared Infrastructure",
+"children": [
+ {
+ "name": "Data Centers" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Telecommunications and Broadband Access",
+"children": [
+ {
+ "name": "Access and Connectivity" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Macroeconomic and Structural Policies",
+"children": [
+ {
+ "name": "Fiscal Policy" 
+},
+{
+ "name": "Macroeconomic Monitoring",
+"children": [
+ {
+ "name": "Economic Growth Diagnostics",
+"children": [
+ {
+ "name": "Government Failures",
+"children": [
+ {
+ "name": "Institutions and Growth" 
+} 
+] 
+},
+{
+ "name": "Market Failures",
+"children": [
+ {
+ "name": "Infrastructure and Growth" 
+},
+{
+ "name": "Trade and Growth" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Macroprudential Policy",
+"children": [
+ {
+ "name": "Banking Regulation" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Poverty",
+"children": [
+ {
+ "name": "Behavioral Initiatives for Poverty Reduction and Equity",
+"children": [
+ {
+ "name": "Decision Making and Poverty" 
+} 
+] 
+},
+{
+ "name": "Markets and Institutions for Poverty Reduction and Shared Prosperity",
+"children": [
+ {
+ "name": "Determinants of Economic Growth",
+"children": [
+ {
+ "name": "Finance and Growth" 
+},
+{
+ "name": "Infrastructure and Growth" 
+},
+{
+ "name": "Macroeconomic Stability and Growth",
+"children": [
+ {
+ "name": "Fiscal Policy and Growth" 
+} 
+] 
+},
+{
+ "name": "Trade and Growth" 
+} 
+] 
+},
+{
+ "name": "Government Failures",
+"children": [
+ {
+ "name": "Institutions and Growth" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Shocks and Vulnerability to Poverty",
+"children": [
+ {
+ "name": "Poverty, Nutrition and Food Security",
+"children": [
+ {
+ "name": "Disaster Risk Management",
+"children": [
+ {
+ "name": "Disaster Preparedness",
+"children": [
+ {
+ "name": "Hazard Monitoring" 
+} 
+] 
+},
+{
+ "name": "Man-Made Disasters",
+"children": [
+ {
+ "name": "Environmental Disaster",
+"children": [
+ {
+ "name": "Oil Spill" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Private Sector Development",
+"children": [
+ {
+ "name": "Competition Policy",
+"children": [
+ {
+ "name": "Product Market Regulation and Competition Advocacy",
+"children": [
+ {
+ "name": "Product Market Regulation in Services" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Competitive Industries",
+"children": [
+ {
+ "name": "Industry Policy and Real Sectors",
+"children": [
+ {
+ "name": "Manufacturing, Agribusiness, and Services",
+"children": [
+ {
+ "name": "Agribusiness and Forestry",
+"children": [
+ {
+ "name": "Agribusiness" 
+} 
+] 
+},
+{
+ "name": "Education and Health" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Investment Climate",
+"children": [
+ {
+ "name": "Business Environment" 
+},
+{
+ "name": "Business Taxation",
+"children": [
+ {
+ "name": "Tax Simplification" 
+},
+{
+ "name": "Tax Transparency" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Public Sector Management",
+"children": [
+ {
+ "name": "Governance in Public Sector",
+"children": [
+ {
+ "name": "Open Government and Transparency",
+"children": [
+ {
+ "name": "Right to Services" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Justice" 
+},
+{
+ "name": "Legal and Regulatory Framework" 
+},
+{
+ "name": "Public Administration",
+"children": [
+ {
+ "name": "Organizational Management in Government",
+"children": [
+ {
+ "name": "Center of Government" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Public Finance" 
+} 
+] 
+},
+{
+ "name": "Social Development",
+"children": [
+ {
+ "name": "Social Accountability",
+"children": [
+ {
+ "name": "Local Governance" 
+} 
+] 
+},
+{
+ "name": "Social Inclusion",
+"children": [
+ {
+ "name": "Vulnerable Groups" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Social Protection and Labor",
+"children": [
+ {
+ "name": "Labor Markets",
+"children": [
+ {
+ "name": "Labor Demand",
+"children": [
+ {
+ "name": "Self-Employment and Entrepreneurship",
+"children": [
+ {
+ "name": "Entrepreneurship" 
+},
+{
+ "name": "Livelihoods" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Trade",
+"children": [
+ {
+ "name": "Trade Facilitation and Logistics",
+"children": [
+ {
+ "name": "Transport and Logistics Services",
+"children": [
+ {
+ "name": "Logistics Hubs and Platforms" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Trade Policy and Integration",
+"children": [
+ {
+ "name": "Trade Finance",
+"children": [
+ {
+ "name": "Working Capital Finance" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Transport",
+"children": [
+ {
+ "name": "Modes of Transport",
+"children": [
+ {
+ "name": "Road Transport",
+"children": [
+ {
+ "name": "Rural Accessibility",
+"children": [
+ {
+ "name": "Rural Roads" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Urban Development",
+"children": [
+ {
+ "name": "Disaster Risk Management",
+"children": [
+ {
+ "name": "Disaster Preparedness",
+"children": [
+ {
+ "name": "Hazard Monitoring" 
+} 
+] 
+},
+{
+ "name": "Man-Made Disasters",
+"children": [
+ {
+ "name": "Environmental Disaster",
+"children": [
+ {
+ "name": "Oil Spill" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Green Cities",
+"children": [
+ {
+ "name": "Urban Pollution",
+"children": [
+ {
+ "name": "Urban Pollution and Environmental Health",
+"children": [
+ {
+ "name": "Industrial Pollution" 
+},
+{
+ "name": "Legacy Pollution" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Urban Governance and City Systems",
+"children": [
+ {
+ "name": "Land and Housing",
+"children": [
+ {
+ "name": "Housing Markets" 
+} 
+] 
+},
+{
+ "name": "Local Finance",
+"children": [
+ {
+ "name": "Asset Management" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Urban Transport",
+"children": [
+ {
+ "name": "Urban Transport Policy and Planning",
+"children": [
+ {
+ "name": "Transport and Poverty" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Water",
+"children": [
+ {
+ "name": "Water Security and Integrated Resource Management",
+"children": [
+ {
+ "name": "Integrated Water Management",
+"children": [
+ {
+ "name": "Integrated Urban Water Management",
+"children": [
+ {
+ "name": "Industrial Water Pollution" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Water and Environment",
+"children": [
+ {
+ "name": "Water Quality Monitoring" 
+} 
+] 
+},
+{
+ "name": "Water Pollution" 
+} 
+] 
+},
+{
+ "name": "Water Supply and Sanitation",
+"children": [
+ {
+ "name": "Sanitation" 
+},
+{
+ "name": "Water Supply" 
+},
+{
+ "name": "Water Supply and Sanitation Policy, Legislation and Institutions",
+"children": [
+ {
+ "name": "Utility Management" 
+},
+{
+ "name": "Water Supply and Sanitation Service Provision Models",
+"children": [
+ {
+ "name": "Community Water Supply Management" 
+},
+{
+ "name": "Water Supply and Sanitation Governance" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+}

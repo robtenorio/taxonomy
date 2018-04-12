@@ -1,0 +1,1040 @@
+{
+ "name": "Ukraine",
+"children": [
+ {
+ "name": "Keep",
+"children": [
+ {
+ "name": "GP",
+"children": [
+ {
+ "name": "Agriculture and Food Security",
+"children": [
+ {
+ "name": "Commercial Agriculture",
+"children": [
+ {
+ "name": "Agribusiness Development" 
+} 
+] 
+},
+{
+ "name": "Linking Farmers with Markets",
+"children": [
+ {
+ "name": "Land Tenure",
+"children": [
+ {
+ "name": "Land Reform" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Energy and Extractives",
+"children": [
+ {
+ "name": "Energy Efficiency" 
+},
+{
+ "name": "Power and Electricity Sector" 
+},
+{
+ "name": "Power Systems",
+"children": [
+ {
+ "name": "Energy and Water" 
+} 
+] 
+},
+{
+ "name": "Renewable Energy",
+"children": [
+ {
+ "name": "Hydropower and Dams",
+"children": [
+ {
+ "name": "Hydropower Sector Governance" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Financial Sector Development",
+"children": [
+ {
+ "name": "Capital Markets",
+"children": [
+ {
+ "name": "Corporate Governance" 
+},
+{
+ "name": "Non-Bank Financial Institutions",
+"children": [
+ {
+ "name": "Investment Funds",
+"children": [
+ {
+ "name": "Private Equity Funds",
+"children": [
+ {
+ "name": "Debt Funds" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Financial Architecture and Banking",
+"children": [
+ {
+ "name": "Banking Institutions",
+"children": [
+ {
+ "name": "Central Banks" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Financial Inclusion",
+"children": [
+ {
+ "name": "Access to Finance" 
+},
+{
+ "name": "MSME Finance",
+"children": [
+ {
+ "name": "SME Finance",
+"children": [
+ {
+ "name": "Leasing" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Financial Institutions",
+"children": [
+ {
+ "name": "Banking Strategy and Risk Management",
+"children": [
+ {
+ "name": "Banking Regulation",
+"children": [
+ {
+ "name": "Bank Regulation and Supervision",
+"children": [
+ {
+ "name": "Corporate Governance of Banks" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Health, Nutrition and Population",
+"children": [
+ {
+ "name": "Health" 
+},
+{
+ "name": "Public Health" 
+} 
+] 
+},
+{
+ "name": "Macroeconomic and Structural Policies",
+"children": [
+ {
+ "name": "Fiscal Policy",
+"children": [
+ {
+ "name": "Fiscal Consolidation" 
+},
+{
+ "name": "Fiscal Risks" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Private Sector Development",
+"children": [
+ {
+ "name": "Competition Policy" 
+},
+{
+ "name": "Investment Climate",
+"children": [
+ {
+ "name": "Business Environment",
+"children": [
+ {
+ "name": "Sector and Policy Regulatory Reforms" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Public Sector Management",
+"children": [
+ {
+ "name": "Justice",
+"children": [
+ {
+ "name": "Anti-Corruption" 
+},
+{
+ "name": "Justice System Administration",
+"children": [
+ {
+ "name": "Human Resources" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Public Administration",
+"children": [
+ {
+ "name": "Human Resources for Public Sector",
+"children": [
+ {
+ "name": "Human Resource Management Information System" 
+} 
+] 
+},
+{
+ "name": "Public Service Delivery",
+"children": [
+ {
+ "name": "e-Government" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Public Finance",
+"children": [
+ {
+ "name": "Financial Management Information Systems" 
+},
+{
+ "name": "Government Procurement" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Social Protection and Labor",
+"children": [
+ {
+ "name": "Social Assistance" 
+} 
+] 
+},
+{
+ "name": "Transport",
+"children": [
+ {
+ "name": "Modes of Transport",
+"children": [
+ {
+ "name": "Road Transport" 
+},
+{
+ "name": "Waterborne Transport",
+"children": [
+ {
+ "name": "Inland Waterways" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Transport and Logistics Services" 
+},
+{
+ "name": "Transport Economics",
+"children": [
+ {
+ "name": "Road Financing" 
+},
+{
+ "name": "Transport Efficiency" 
+} 
+] 
+},
+{
+ "name": "Transport Infrastructure" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Remove",
+"children": [
+ {
+ "name": "CCSA",
+"children": [
+ {
+ "name": "Fragility, Conflict and Violence",
+"children": [
+ {
+ "name": "Peace Operations and Conflict Management",
+"children": [
+ {
+ "name": "Post-Conflict Reconstruction",
+"children": [
+ {
+ "name": "Population Displacement" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Jobs",
+"children": [
+ {
+ "name": "Jobs and Development",
+"children": [
+ {
+ "name": "Jobs and Growth" 
+} 
+] 
+},
+{
+ "name": "Jobs Diagnostics",
+"children": [
+ {
+ "name": "Job Quality and Labor Market Performance",
+"children": [
+ {
+ "name": "Labor Supply",
+"children": [
+ {
+ "name": "Employment Incentives",
+"children": [
+ {
+ "name": "Public Works" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Jobs Strategies",
+"children": [
+ {
+ "name": "Industrial Policies",
+"children": [
+ {
+ "name": "Thematic and Sectoral  Prioritization",
+"children": [
+ {
+ "name": "Jobs in Agriculture" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "GP",
+"children": [
+ {
+ "name": "Agriculture and Food Security",
+"children": [
+ {
+ "name": "Climate Smart Agriculture",
+"children": [
+ {
+ "name": "Agricultural Water Management",
+"children": [
+ {
+ "name": "Irrigation and Drainage" 
+},
+{
+ "name": "Irrigation and Drainage Methods",
+"children": [
+ {
+ "name": "Drainage" 
+} 
+] 
+},
+{
+ "name": "Water Scarcity",
+"children": [
+ {
+ "name": "Water Efficiency" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Livestock",
+"children": [
+ {
+ "name": "Animal Production",
+"children": [
+ {
+ "name": "Animal Welfare",
+"children": [
+ {
+ "name": "One Health" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Economic Growth",
+"children": [
+ {
+ "name": "Determinants of Economic Growth",
+"children": [
+ {
+ "name": "Finance and Growth" 
+},
+{
+ "name": "Macroeconomic Stability and Growth",
+"children": [
+ {
+ "name": "Fiscal Policy and Growth",
+"children": [
+ {
+ "name": "Fiscal Consolidation" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Economic Growth Diagnostics",
+"children": [
+ {
+ "name": "Government Failures",
+"children": [
+ {
+ "name": "Institutions and Growth" 
+} 
+] 
+},
+{
+ "name": "Market Failures",
+"children": [
+ {
+ "name": "Competition Policy and Growth" 
+},
+{
+ "name": "Infrastructure and Growth" 
+},
+{
+ "name": "Trade and Growth" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Economic Growth Policy",
+"children": [
+ {
+ "name": "Jobs and Growth" 
+} 
+] 
+},
+{
+ "name": "Inclusive Growth",
+"children": [
+ {
+ "name": "Social Protection and Growth" 
+} 
+] 
+},
+{
+ "name": "Sustainable Economic Growth",
+"children": [
+ {
+ "name": "Political and Institutional Sustainability",
+"children": [
+ {
+ "name": "Governance and Growth" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Energy and Extractives",
+"children": [
+ {
+ "name": "Mining Sector",
+"children": [
+ {
+ "name": "Governance for Mining",
+"children": [
+ {
+ "name": "Extractive Industries Transparency Initiative" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Financial Sector Development",
+"children": [
+ {
+ "name": "Financial Architecture and Banking",
+"children": [
+ {
+ "name": "Banking Institutions",
+"children": [
+ {
+ "name": "Central Banks" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Financial Infrastructure and Remittances",
+"children": [
+ {
+ "name": "Payment and Market Infrastructure",
+"children": [
+ {
+ "name": "Government Payments" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Financial Institutions",
+"children": [
+ {
+ "name": "Banking Strategy and Risk Management",
+"children": [
+ {
+ "name": "Banking Strategy" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Financial Integrity",
+"children": [
+ {
+ "name": "Economic Transparency",
+"children": [
+ {
+ "name": "Beneficial Ownership" 
+},
+{
+ "name": "Financial Transparency" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Health, Nutrition and Population",
+"children": [
+ {
+ "name": "Health" 
+},
+{
+ "name": "Public Health" 
+} 
+] 
+},
+{
+ "name": "Information and Communication Technologies",
+"children": [
+ {
+ "name": "Digital Government",
+"children": [
+ {
+ "name": "ICT Applications",
+"children": [
+ {
+ "name": "Sector Specific ICT Applications",
+"children": [
+ {
+ "name": "e-Government Applications",
+"children": [
+ {
+ "name": "e-government services for governments" 
+} 
+] 
+},
+{
+ "name": "Financial Management Information Systems" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "ICT Infrastructure",
+"children": [
+ {
+ "name": "Shared Infrastructure" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Macroeconomic and Structural Policies",
+"children": [
+ {
+ "name": "Fiscal Policy",
+"children": [
+ {
+ "name": "Government Expenditure" 
+} 
+] 
+},
+{
+ "name": "Macroeconomic Monitoring",
+"children": [
+ {
+ "name": "Economic Growth Diagnostics",
+"children": [
+ {
+ "name": "Government Failures",
+"children": [
+ {
+ "name": "Institutions and Growth" 
+} 
+] 
+},
+{
+ "name": "Market Failures",
+"children": [
+ {
+ "name": "Competition Policy and Growth" 
+},
+{
+ "name": "Infrastructure and Growth" 
+},
+{
+ "name": "Trade and Growth" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Macroprudential Policy",
+"children": [
+ {
+ "name": "Banking Regulation",
+"children": [
+ {
+ "name": "Bank Regulation and Supervision",
+"children": [
+ {
+ "name": "Corporate Governance of Banks" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Macroeconomic Vulnerability and Debt",
+"children": [
+ {
+ "name": "Fiscal Risks" 
+} 
+] 
+},
+{
+ "name": "Poverty",
+"children": [
+ {
+ "name": "Markets and Institutions for Poverty Reduction and Shared Prosperity",
+"children": [
+ {
+ "name": "Determinants of Economic Growth",
+"children": [
+ {
+ "name": "Competition Policy and Growth" 
+},
+{
+ "name": "Finance and Growth" 
+},
+{
+ "name": "Infrastructure and Growth" 
+},
+{
+ "name": "Macroeconomic Stability and Growth",
+"children": [
+ {
+ "name": "Fiscal Policy and Growth",
+"children": [
+ {
+ "name": "Fiscal Consolidation" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Trade and Growth" 
+} 
+] 
+},
+{
+ "name": "Government Failures",
+"children": [
+ {
+ "name": "Institutions and Growth" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Private Sector Development",
+"children": [
+ {
+ "name": "Competition Policy" 
+},
+{
+ "name": "Competitive Industries",
+"children": [
+ {
+ "name": "Industry Policy and Real Sectors",
+"children": [
+ {
+ "name": "Extractive Industries" 
+},
+{
+ "name": "Manufacturing, Agribusiness, and Services",
+"children": [
+ {
+ "name": "Agribusiness and Forestry",
+"children": [
+ {
+ "name": "Agribusiness" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Investment Climate",
+"children": [
+ {
+ "name": "Business Environment" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Public Sector Management",
+"children": [
+ {
+ "name": "Legal and Regulatory Framework",
+"children": [
+ {
+ "name": "Financial Laws and Regulations",
+"children": [
+ {
+ "name": "Banking Regulation",
+"children": [
+ {
+ "name": "Bank Regulation and Supervision",
+"children": [
+ {
+ "name": "Corporate Governance of Banks" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Public Administration",
+"children": [
+ {
+ "name": "Public Service Delivery",
+"children": [
+ {
+ "name": "State Owned Enterprises",
+"children": [
+ {
+ "name": "Privatization" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Public Finance",
+"children": [
+ {
+ "name": "Fiscal Policy",
+"children": [
+ {
+ "name": "Fiscal Consolidation" 
+},
+{
+ "name": "Fiscal Risks" 
+},
+{
+ "name": "Government Expenditure" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Social Development",
+"children": [
+ {
+ "name": "Social Accountability",
+"children": [
+ {
+ "name": "Budget Transparency" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Social Protection and Labor",
+"children": [
+ {
+ "name": "Social Assistance" 
+} 
+] 
+},
+{
+ "name": "Trade",
+"children": [
+ {
+ "name": "Trade Facilitation and Logistics",
+"children": [
+ {
+ "name": "Customs and Border Management",
+"children": [
+ {
+ "name": "Anti-Corruption in Customs Administration",
+"children": [
+ {
+ "name": "Human Resource Management" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Transport and Logistics Services" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Urban Development",
+"children": [
+ {
+ "name": "Urban Governance and City Systems",
+"children": [
+ {
+ "name": "Land and Housing",
+"children": [
+ {
+ "name": "Housing Subsidies" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Urban Transport",
+"children": [
+ {
+ "name": "Urban Transport Policy and Planning",
+"children": [
+ {
+ "name": "Transport and Poverty" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Water",
+"children": [
+ {
+ "name": "Agricultural Water Management",
+"children": [
+ {
+ "name": "Irrigation and Drainage" 
+},
+{
+ "name": "Irrigation and Drainage Methods",
+"children": [
+ {
+ "name": "Drainage" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Energy and Water",
+"children": [
+ {
+ "name": "Hydropower and Dams",
+"children": [
+ {
+ "name": "Hydropower Sector Governance" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Water Security and Integrated Resource Management",
+"children": [
+ {
+ "name": "Integrated Water Management",
+"children": [
+ {
+ "name": "Water for Energy" 
+} 
+] 
+},
+{
+ "name": "Water Scarcity",
+"children": [
+ {
+ "name": "Water Efficiency" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Water Supply and Sanitation",
+"children": [
+ {
+ "name": "Sanitation" 
+},
+{
+ "name": "Water Supply" 
+},
+{
+ "name": "Water Supply and Sanitation Policy, Legislation and Institutions",
+"children": [
+ {
+ "name": "Water Supply and Sanitation Policy and Planning",
+"children": [
+ {
+ "name": "Water Sector Policy, Strategy and Reform" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+}

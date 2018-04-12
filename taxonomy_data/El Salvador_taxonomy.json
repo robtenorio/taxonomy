@@ -1,0 +1,929 @@
+{
+ "name": "El Salvador",
+"children": [
+ {
+ "name": "Keep",
+"children": [
+ {
+ "name": "CCSA",
+"children": [
+ {
+ "name": "Climate Change",
+"children": [
+ {
+ "name": "Climate Change Mitigation",
+"children": [
+ {
+ "name": "Market-Based Climate Change Mitigation",
+"children": [
+ {
+ "name": "Carbon Finance" 
+} 
+] 
+},
+{
+ "name": "Reduced Emissions from Deforestation and Degradation" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Fragility, Conflict and Violence",
+"children": [
+ {
+ "name": "Conflict and Violence",
+"children": [
+ {
+ "name": "Crime" 
+},
+{
+ "name": "Non-State Security Actors",
+"children": [
+ {
+ "name": "Gangs" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "GP",
+"children": [
+ {
+ "name": "Education",
+"children": [
+ {
+ "name": "Education for All",
+"children": [
+ {
+ "name": "Education Access and Equity",
+"children": [
+ {
+ "name": "Access to Secondary Education" 
+} 
+] 
+},
+{
+ "name": "Education, Skills Development and Labor Market",
+"children": [
+ {
+ "name": "Lifelong Learning",
+"children": [
+ {
+ "name": "Adult Education" 
+} 
+] 
+},
+{
+ "name": "Soft Skills",
+"children": [
+ {
+ "name": "Social Skills" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Quality of Education" 
+} 
+] 
+},
+{
+ "name": "Education Management and Administration",
+"children": [
+ {
+ "name": "Education Policy and Planning",
+"children": [
+ {
+ "name": "Education Reform" 
+},
+{
+ "name": "National Education Systems" 
+} 
+] 
+},
+{
+ "name": "Teachers Management",
+"children": [
+ {
+ "name": "Teacher Training" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Levels of Education" 
+} 
+] 
+},
+{
+ "name": "Financial Sector Development",
+"children": [
+ {
+ "name": "Financial Architecture and Banking",
+"children": [
+ {
+ "name": "Banking Institutions",
+"children": [
+ {
+ "name": "Central Banks" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Financial Inclusion" 
+},
+{
+ "name": "Financial Institutions" 
+} 
+] 
+},
+{
+ "name": "Macroeconomic and Structural Policies",
+"children": [
+ {
+ "name": "Fiscal Policy",
+"children": [
+ {
+ "name": "Fiscal Decentralization",
+"children": [
+ {
+ "name": "Local Finance",
+"children": [
+ {
+ "name": "Sub-National Fiscal System",
+"children": [
+ {
+ "name": "Local Government Fiscal System" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Remove",
+"children": [
+ {
+ "name": "CCSA",
+"children": [
+ {
+ "name": "Jobs",
+"children": [
+ {
+ "name": "Inclusive Jobs",
+"children": [
+ {
+ "name": "Youth Employment" 
+} 
+] 
+},
+{
+ "name": "Jobs and Development",
+"children": [
+ {
+ "name": "Jobs and Growth",
+"children": [
+ {
+ "name": "Human Capital for Growth" 
+} 
+] 
+},
+{
+ "name": "Jobs and Poverty",
+"children": [
+ {
+ "name": "Labor Market Institutions and Policies",
+"children": [
+ {
+ "name": "Efficient Labor Exchanges",
+"children": [
+ {
+ "name": "Labor Intermediation" 
+},
+{
+ "name": "Training Services" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Micro-enterprises" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Jobs Diagnostics",
+"children": [
+ {
+ "name": "Categories of Workers",
+"children": [
+ {
+ "name": "Skilled Workers" 
+},
+{
+ "name": "Young Workers" 
+} 
+] 
+},
+{
+ "name": "Employment Tools and Methods",
+"children": [
+ {
+ "name": "Enterprise Surveys" 
+} 
+] 
+},
+{
+ "name": "Job Quality and Labor Market Performance",
+"children": [
+ {
+ "name": "Labor Supply",
+"children": [
+ {
+ "name": "Employment Incentives",
+"children": [
+ {
+ "name": "Public Works" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Jobs Strategies",
+"children": [
+ {
+ "name": "Skills and Education" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "GP",
+"children": [
+ {
+ "name": "Agriculture and Food Security",
+"children": [
+ {
+ "name": "Natural Resources",
+"children": [
+ {
+ "name": "Forestry",
+"children": [
+ {
+ "name": "Reduced Emissions from Deforestation and Degradation" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Economic Growth",
+"children": [
+ {
+ "name": "Determinants of Economic Growth",
+"children": [
+ {
+ "name": "Finance and Growth" 
+},
+{
+ "name": "Human Capital and Growth" 
+} 
+] 
+},
+{
+ "name": "Economic Growth Diagnostics",
+"children": [
+ {
+ "name": "Government Failures",
+"children": [
+ {
+ "name": "Institutions and Growth" 
+} 
+] 
+},
+{
+ "name": "Market Failures",
+"children": [
+ {
+ "name": "Infrastructure and Growth" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Education",
+"children": [
+ {
+ "name": "Education for All",
+"children": [
+ {
+ "name": "Social Demand for Education",
+"children": [
+ {
+ "name": "Education and Health",
+"children": [
+ {
+ "name": "School Health" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Education Management and Administration",
+"children": [
+ {
+ "name": "Education Management Information Systems" 
+},
+{
+ "name": "Education Policy and Planning",
+"children": [
+ {
+ "name": "National Education Systems" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Energy and Extractives",
+"children": [
+ {
+ "name": "Power and Electricity Sector",
+"children": [
+ {
+ "name": "Energy Subsidies" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Environment and Natural Resources",
+"children": [
+ {
+ "name": "Natural Resources Management",
+"children": [
+ {
+ "name": "Natural Resources",
+"children": [
+ {
+ "name": "Forestry",
+"children": [
+ {
+ "name": "Reduced Emissions from Deforestation and Degradation" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Financial Sector Development",
+"children": [
+ {
+ "name": "Financial Inclusion",
+"children": [
+ {
+ "name": "Access to Finance" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Health, Nutrition and Population",
+"children": [
+ {
+ "name": "Health" 
+},
+{
+ "name": "Public Health" 
+} 
+] 
+},
+{
+ "name": "Macroeconomic and Structural Policies",
+"children": [
+ {
+ "name": "Fiscal Policy",
+"children": [
+ {
+ "name": "Fiscal Risks" 
+} 
+] 
+},
+{
+ "name": "Macroeconomic Monitoring",
+"children": [
+ {
+ "name": "Economic Growth Diagnostics",
+"children": [
+ {
+ "name": "Government Failures",
+"children": [
+ {
+ "name": "Institutions and Growth" 
+} 
+] 
+},
+{
+ "name": "Market Failures",
+"children": [
+ {
+ "name": "Infrastructure and Growth" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Macroeconomic Vulnerability and Debt",
+"children": [
+ {
+ "name": "Debt and Macroeconomic Stability",
+"children": [
+ {
+ "name": "Debt Management" 
+} 
+] 
+},
+{
+ "name": "Fiscal Balance" 
+},
+{
+ "name": "Fiscal Risks" 
+} 
+] 
+},
+{
+ "name": "Poverty",
+"children": [
+ {
+ "name": "Markets and Institutions for Poverty Reduction and Shared Prosperity",
+"children": [
+ {
+ "name": "Determinants of Economic Growth",
+"children": [
+ {
+ "name": "Finance and Growth" 
+},
+{
+ "name": "Human Capital and Growth" 
+},
+{
+ "name": "Infrastructure and Growth" 
+} 
+] 
+},
+{
+ "name": "Government Failures",
+"children": [
+ {
+ "name": "Institutions and Growth" 
+} 
+] 
+},
+{
+ "name": "Jobs and Poverty",
+"children": [
+ {
+ "name": "Labor Market Institutions and Policies",
+"children": [
+ {
+ "name": "Efficient Labor Exchanges",
+"children": [
+ {
+ "name": "Labor Intermediation" 
+},
+{
+ "name": "Training Services" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Micro-enterprises" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Shocks and Vulnerability to Poverty",
+"children": [
+ {
+ "name": "Poverty, Nutrition and Food Security",
+"children": [
+ {
+ "name": "Disaster Risk Management",
+"children": [
+ {
+ "name": "Disaster Preparedness",
+"children": [
+ {
+ "name": "Hazard Monitoring" 
+} 
+] 
+},
+{
+ "name": "Disaster Risk Reduction",
+"children": [
+ {
+ "name": "Disaster Resilience" 
+} 
+] 
+},
+{
+ "name": "Man-Made Disasters",
+"children": [
+ {
+ "name": "Environmental Disaster" 
+} 
+] 
+},
+{
+ "name": "Natural Disaster",
+"children": [
+ {
+ "name": "Meteorological Disaster",
+"children": [
+ {
+ "name": "Tropical Cyclone" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Natural Disaster Shocks",
+"children": [
+ {
+ "name": "Drought" 
+},
+{
+ "name": "Earthquake" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Private Sector Development",
+"children": [
+ {
+ "name": "Competitive Industries",
+"children": [
+ {
+ "name": "Industry Policy and Real Sectors",
+"children": [
+ {
+ "name": "Manufacturing, Agribusiness, and Services",
+"children": [
+ {
+ "name": "Agribusiness and Forestry",
+"children": [
+ {
+ "name": "Forestry",
+"children": [
+ {
+ "name": "Reduced Emissions from Deforestation and Degradation" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Education and Health",
+"children": [
+ {
+ "name": "School Health" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Investment Climate",
+"children": [
+ {
+ "name": "Business Environment" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Public Sector Management",
+"children": [
+ {
+ "name": "Public Administration",
+"children": [
+ {
+ "name": "Organizational Management in Government",
+"children": [
+ {
+ "name": "Performance Management in Government",
+"children": [
+ {
+ "name": "Public Sector Management Information Systems" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Public Service Delivery" 
+} 
+] 
+},
+{
+ "name": "Public Finance",
+"children": [
+ {
+ "name": "Fiscal Policy",
+"children": [
+ {
+ "name": "Fiscal Decentralization",
+"children": [
+ {
+ "name": "Local Finance",
+"children": [
+ {
+ "name": "Sub-National Fiscal System",
+"children": [
+ {
+ "name": "Local Government Fiscal System" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Fiscal Risks" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Social Development",
+"children": [
+ {
+ "name": "Social Cohesion",
+"children": [
+ {
+ "name": "Violence Prevention" 
+} 
+] 
+},
+{
+ "name": "Social Inclusion",
+"children": [
+ {
+ "name": "Vulnerable Groups" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Social Protection and Labor",
+"children": [
+ {
+ "name": "Labor Markets",
+"children": [
+ {
+ "name": "Labor Market Equilibrium",
+"children": [
+ {
+ "name": "Youth Employment" 
+} 
+] 
+},
+{
+ "name": "Public Employment Services",
+"children": [
+ {
+ "name": "Labor Intermediation" 
+},
+{
+ "name": "Training Services" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Social Assistance",
+"children": [
+ {
+ "name": "Type of Benefits",
+"children": [
+ {
+ "name": "Cash Transfers",
+"children": [
+ {
+ "name": "Public Works" 
+} 
+] 
+},
+{
+ "name": "Price Subsidies",
+"children": [
+ {
+ "name": "Utility Subsidies" 
+} 
+] 
+},
+{
+ "name": "Social Pensions" 
+},
+{
+ "name": "Social Support Services" 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Social Protection and Labor Delivery Systems",
+"children": [
+ {
+ "name": "Social Protection and Labor Information Systems Platform",
+"children": [
+ {
+ "name": "Social Registries" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Urban Development",
+"children": [
+ {
+ "name": "Disaster Risk Management",
+"children": [
+ {
+ "name": "Disaster Preparedness",
+"children": [
+ {
+ "name": "Hazard Monitoring" 
+} 
+] 
+},
+{
+ "name": "Disaster Risk Reduction",
+"children": [
+ {
+ "name": "Disaster Resilience" 
+} 
+] 
+},
+{
+ "name": "Man-Made Disasters",
+"children": [
+ {
+ "name": "Environmental Disaster" 
+} 
+] 
+},
+{
+ "name": "Natural Disaster",
+"children": [
+ {
+ "name": "Climatological Event",
+"children": [
+ {
+ "name": "Drought" 
+} 
+] 
+},
+{
+ "name": "Geophysical Event",
+"children": [
+ {
+ "name": "Earthquake" 
+} 
+] 
+},
+{
+ "name": "Meteorological Disaster",
+"children": [
+ {
+ "name": "Tropical Cyclone" 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Urban Governance and City Systems",
+"children": [
+ {
+ "name": "Local Finance",
+"children": [
+ {
+ "name": "Sub-National Fiscal System",
+"children": [
+ {
+ "name": "Local Government Fiscal System" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+},
+{
+ "name": "Water",
+"children": [
+ {
+ "name": "Water Supply and Sanitation",
+"children": [
+ {
+ "name": "Water Supply and Sanitation Policy, Legislation and Institutions",
+"children": [
+ {
+ "name": "Utility Management" 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+] 
+}
