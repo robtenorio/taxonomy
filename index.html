@@ -8,6 +8,18 @@
 <script src="js/versor.js"></script>
 <style>
 
+#globe {
+  background: #fff3e6;
+}
+
+#word {
+    background-color: #ffb37f;
+}
+
+#text-container {
+  overflow-y: scroll;
+}
+
 .node circle {
   fill: #fff;
   stroke: steelblue;
@@ -24,31 +36,33 @@
   stroke-width: 2px;
 }
 
-.wrapper {
-  border: 1px solid black;
-  overflow: hidden;
+#wrapper {
+  /*border: 1px solid black;*/
+  overflow: hidden; /* add this to contain floated children */
+  background: #fff3e6;
 }
-#current {
-  width: 100px;
-  float: left;
-  border: none;
+#tree {
+  /*float:left; /* add this */
+  /*border: 1px solid red;
 }
-.visual {
-  border: none;
-  float: left;
+#text-container {
+  width: 0px;
+  border: 1px solid green;
+  /*float: left; /* add this */
 }
 
 </style>
 
 <body>
-  <button onclick="hideSVG()">Hide/Show Globe</button>
-  <div class="wrapper">
-    <h2 id="current"></h2>
-    <canvas id="globe"></canvas>
-    <script src="js/globe.js"></script>
-    <div class = "visual">
-      <script src="js/tree.js"></script>
+  <div id="wrapper">
+    <div id = "globe-container">
+      <canvas id="globe"></canvas>
+      <h2 id="current"></h2>
     </div>
+    <script src="js/globe.js"></script>
+    <script src="js/tree.js"></script>
+  </div>
+</body>
   <!--<div class="input">
     <select name="countries" size="10" id="country-select">
       <option value="Afghanistan" selected>Afghanistan</option>
@@ -100,5 +114,3 @@
       <option value="Vietnam">Vietnam</option>
     </select>
   </div>-->
-</div>
-</body>
