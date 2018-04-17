@@ -4,7 +4,6 @@ canvas.on("click", function() {
   country = current.text();
   if(!fileExists(`taxonomy_data/${country}_taxonomy.json`)) {
     alert('We couldn\'t find that country!');
-
   }
 
   if(fileExists(`taxonomy_data/${country}_taxonomy.json`)){
@@ -32,11 +31,11 @@ function minimizeTree(depth) {
 console.log(depth);
   if(depth === 0) {
 
-  d3.select("svg")
+  d3.select("#tree")
     .remove();
 
   d3.select("svg")
-    .style('height', "10px")
+    .style('height', "0px")
     .attr('display', 'none');
 
   d3.select("#globe-container")
@@ -50,12 +49,16 @@ console.log(depth);
 
 function removeDiv(t) {
 
+  d3.select("#text-container")
+    .remove();
+
+  d3.select("#paragraph-removable")
+    .remove();
+
   d3.select("#wrapper")
     .append("div")
     .attr("id", "text-container");
 
-  d3.select("#text-container")
-    .remove();
   d3.select("#text-container")
     .append("p")
     .attr("id", "paragraph-removable")
@@ -72,12 +75,16 @@ function expandDiv() {
     .duration(1000)
     .style("width", width*.80)
     .style('float', "left");
-    ;
 } 
 
 function collapseDiv() {
   d3.select('svg').transition().duration(1000)
     .style('width', width)
+
+  d3.select("#text-container")
+    .transition()
+    .delay(1100)
+    .remove();
 }
 
 function fileExists(url) {
