@@ -8,16 +8,21 @@ canvas.on("click", function() {
 
   if(fileExists(`taxonomy_data/${country}_taxonomy.json`)){
     d3.select("#globe-container")
-    .transition().duration(1000)
+    .transition().duration(1500)
     .style('height', '0px');
   d3.select("h2")
+    .transition().duration(1500)
     .style('height', '0px');
 
   d3.select("canvas")
-    .style("visibility", "hidden");
+    .transition()
+    .duration(1500)
+    .style("opacity", 0);
 
   d3.select("svg")
-    .attr('display', 'inline-block')
+    .transition()
+    .duration(1500)
+    .attr('display', 'inline-block');
 
   tree(country);
   }
@@ -35,15 +40,18 @@ console.log(depth);
     .remove();
 
   d3.select("svg")
+    .transition()
+    .duration(1000)
     .style('height', "0px")
     .attr('display', 'none');
 
   d3.select("#globe-container")
-    .transition().duration(1000)
     .style('height', '780px');
 
   d3.select("canvas")
-    .style("visibility", "visible");
+    .transition()
+    .duration(1500)
+    .style("opacity", 1);
   }
 }
 
