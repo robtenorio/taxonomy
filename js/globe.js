@@ -37,8 +37,6 @@
 
       //Show the tooltip
       d3.select("#tooltip").classed("hidden", false);
-
-      console.log(current.text())
     }
 
     function leave(country) {
