@@ -102,9 +102,9 @@
     function render() {
       context.clearRect(0, 0, width, height)
       fill(water, colorWater)
-      //stroke(graticule, colorGraticule)
-      //stroke(, colorGraticule)
+      //stroke(countries, colorGraticule)
       fill(land, colorLand)
+      stroke(countries, colorGraticule)
       if (currentCountry) {
         fill(currentCountry, colorCountry)
       }
@@ -216,4 +216,5 @@ function makeGlobe() {
       scale()
       autorotate = d3.timer(rotate)
     })
+
 };
