@@ -8,10 +8,11 @@ canvas.on("click", function() {
 
   if(fileExists(`taxonomy_data/${country}_taxonomy.json`)){
     d3.select("#globe-container")
-    .transition().duration(1500)
+    .transition().duration(500)
     .style('height', '0px');
+
   d3.select("h2")
-    .transition().duration(1500)
+    .transition().duration(500)
     .style('height', '0px');
 
   d3.select("canvas")
@@ -21,7 +22,7 @@ canvas.on("click", function() {
 
   d3.select("svg")
     .transition()
-    .duration(1500)
+    .duration(1000)
     .attr('display', 'inline-block');
 
   tree(country);
@@ -41,15 +42,15 @@ console.log(depth);
     .duration(1500)
     .style('height', '780px');
 
-  d3.select("#tree")
-    .transition()
-    .delay(1500)
-    .remove();
-
   d3.select("canvas")
     .transition()
     .duration(1500)
     .style("opacity", 1);
+
+    d3.select("#tree")
+    .transition()
+    .delay(1000)
+    .remove();
   }
 }
 
@@ -99,26 +100,6 @@ function fileExists(url) {
   http.send();
   return http.status!=404;
 }
-
-function minimizeGlobe() {
-  var style = d3.select("#globe").style("height");
-  if(style === "0px") {
-    d3.select("#globe")
-      .transition()
-      .duration(500)
-      .style("opacity", 1)
-      .style("height", "200px");
-  }
-  else {
-    d3.select("#globe")
-      .transition()
-      .duration(500)
-      .style("opacity", 0)
-      .style("height", 0);
-  }
-  }
-
-
 
 // size of the diagram
 var viewerWidth = $(document).width();
