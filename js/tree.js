@@ -18,7 +18,12 @@ canvas.on("click", function() {
   d3.select("canvas")
     .transition()
     .duration(1500)
-    .style("opacity", 0);
+    .style("opacity", 0)
+    .transition()
+    .delay(.5)
+    .style("visibility", "hidden");
+
+  scaleFactor = 0;
 
   d3.select("svg")
     .transition()
@@ -45,7 +50,8 @@ console.log(depth);
   d3.select("canvas")
     .transition()
     .duration(1500)
-    .style("opacity", 1);
+    .style("opacity", 1)
+    .style("visibility", "visible");
 
     d3.select("#tree")
     .transition()
