@@ -5,65 +5,92 @@ canvas.on("click", function() {
   if(!fileExists(`taxonomy_data/${country}_taxonomy.json`)) {
     alert('We couldn\'t find that country!');
   }
-  d3.select("#globe-container")
-    .remove()
 
-  d3.select("#current")
-    .remove();
+  if(fileExists(`taxonomy_data/${country}_taxonomy.json`)){
+    d3.select("#globe-container")
+    .transition().duration(1500)
+    .style('height', '0px');
+  d3.select("h2")
+    .transition().duration(1500)
+    .style('height', '0px');
+
+  d3.select("canvas")
+    .transition()
+    .duration(1500)
+    .style("opacity", 0);
+
+  d3.select("svg")
+    .transition()
+    .duration(1500)
+    .attr('display', 'inline-block');
 
   tree(country);
+  }
 });
 
 //
 // paragraph append
 //
 
-function removeTree(depth) {
+function minimizeTree(depth) {
 console.log(depth);
   if(depth === 0) {
+
+  d3.select("#globe-container")
+    .transition()
+    .duration(1500)
+    .style('height', '780px');
+
   d3.select("#tree")
-    .style("height", "0px")
-    .style("width", "0px");
+    .transition()
+    .delay(1500)
+    .remove();
 
-  d3.select("#globe")
-    .style("height", "500px")
-    .style("width", "500px");
+  d3.select("canvas")
+    .transition()
+    .duration(1500)
+    .style("opacity", 1);
   }
-
 }
 
 function removeDiv(t) {
 
-  d3.select("#wrapper")
-    .append("div")
-    .attr("id", "text-container")
-    .append("p")
-    .attr("id", "paragraph-removable");
+  d3.select("#text-container")
+    .remove();
 
   d3.select("#paragraph-removable")
     .remove();
+
+  d3.select("#wrapper")
+    .append("div")
+    .attr("id", "text-container");
+
   d3.select("#text-container")
     .append("p")
     .attr("id", "paragraph-removable")
     .append("text")
+    .style('height', height + 'px')
+    .style('width', `${(width*.195) - margin.left - margin.right}px`)
+    .style('float', 'left')
     .html(t);
 }
 
 function expandDiv() {
   d3.select('svg')
-    .attr("width", width*.80);
-  d3.select('#tree').transition().duration(1500)
+    .transition()
+    .duration(1000)
+    .style("width", width*.80)
     .style('float', "left");
-  d3.select('#text-container').transition().duration(1500)
-    .style('height', height + 'px')
-    .style('width', `${(width*.195) - margin.left - margin.right}px`).style('float', 'left');
 } 
 
 function collapseDiv() {
-  d3.select('svg')
-    .attr('width', width)
-  d3.select('#text-container')
-    .style('width', 0)
+  d3.select('svg').transition().duration(1000)
+    .style('width', width)
+
+  d3.select("#text-container")
+    .transition()
+    .delay(1100)
+    .remove();
 }
 
 function fileExists(url) {
@@ -304,7 +331,7 @@ var totalNodes = 0;
           }
 
           d3.selectAll("circle")
-            .on("click", d => d.data.para ? removeDiv(d.data.para) & expandDiv() &removeTree(d.depth) : collapseDiv() & removeTree(d.depth));
+            .on("click", d => d.data.para ? removeDiv(d.data.para) & expandDiv() & minimizeTree(d.depth) : collapseDiv() & minimizeTree(d.depth));
 
           // Toggle children on click.
           function click(d) {
