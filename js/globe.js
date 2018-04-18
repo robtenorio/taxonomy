@@ -10,7 +10,7 @@
     var colorWater = '#85C1E9'
     var colorLand = '#DAF7A6'
     var colorGraticule = '#ccc'
-    var colorCountry = '#a00'
+    var colorCountry = '#ffb37f'
 
 
     //
@@ -18,14 +18,32 @@
     //
 
     function enter(country) {
-      var country = countryList.find(function(c) {
+      var countryProperties = countryList.find(function(c) {
         return c.id === country.id
       })
-      current.text(country && country.name || '')
+      current.text(countryProperties && countryProperties.name || '')
+      
+      //Get centroid of the path
+      let centroid = path.centroid(country);
+      let xPosition = centroid[0];
+      let yPosition = centroid[1];
+
+      //Update the tooltip name
+      d3.select("#tooltip")
+        .style("left", xPosition + "px")
+        .style("top", yPosition + "px")
+        .select("#name")
+        .text(countryProperties.name);
+
+      //Show the tooltip
+      d3.select("#tooltip").classed("hidden", false);
+
+      console.log(current.text())
     }
 
     function leave(country) {
-      current.text('')
+      current.text('');
+      d3.select("#tooltip").classed("hidden", true);
     }
 
     //

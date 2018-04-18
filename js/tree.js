@@ -1,5 +1,7 @@
 makeGlobe();
 
+var globeHeight = d3.select("#globe-container").node().style.height
+
 canvas.on("click", function() {
   country = current.text();
   if(!fileExists(`taxonomy_data/${country}_taxonomy.json`)) {
@@ -13,7 +15,7 @@ canvas.on("click", function() {
 
   d3.select("h2")
     .transition().duration(500)
-    .style('height', '0px');
+    .style('visibility', 'hidden');
 
   d3.select("canvas")
     .transition()
@@ -30,6 +32,9 @@ canvas.on("click", function() {
     .duration(1000)
     .attr('display', 'inline-block');
 
+  //Show the tooltip
+  d3.select("#tooltip").classed("hidden", true);
+
   tree(country);
   }
 });
@@ -45,7 +50,7 @@ console.log(depth);
   d3.select("#globe-container")
     .transition()
     .duration(1500)
-    .style('height', '780px');
+    .style('height', globeHeight);
 
   d3.select("canvas")
     .transition()
